@@ -11,11 +11,10 @@ streamlit run app.py
 
 ## Memperbarui data
 
-Data tren dan data 17 lapangan usaha berada di bagian awal `app.py`. Untuk migrasi penuh lima tabel dan seluruh periode, masukkan workbook sumber lalu pindahkan tabelnya ke berkas CSV di folder `data/`.
+Data lima tabel untuk 17 lapangan usaha dan total PDRB berada di `data/pdrb_long.csv`. Berkas ini mencakup 16 periode dari Triwulan I 2023 sampai Triwulan I 2026 dan dihasilkan dari workbook sumber BPS Kabupaten Sambas.
 
 ## Deploy ke Streamlit Community Cloud
 
 1. Hubungkan repositori ini ke Streamlit Community Cloud.
 2. Pilih `app.py` sebagai entrypoint.
 3. Pilih subdomain, misalnya `sigercep-pdrb-sambas.streamlit.app`.
-

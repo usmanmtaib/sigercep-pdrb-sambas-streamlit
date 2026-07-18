@@ -13,6 +13,7 @@ st.set_page_config(
 
 DATA_PATH = Path(__file__).parent / "data" / "pdrb_long.csv"
 PERIODS = [
+    "Triwulan I 2022", "Triwulan II 2022", "Triwulan III 2022", "Triwulan IV 2022", "Tahunan 2022",
     "Triwulan I 2023", "Triwulan II 2023", "Triwulan III 2023", "Triwulan IV 2023", "Tahunan 2023",
     "Triwulan I 2024", "Triwulan II 2024", "Triwulan III 2024", "Triwulan IV 2024", "Tahunan 2024",
     "Triwulan I 2025", "Triwulan II 2025", "Triwulan III 2025", "Triwulan IV 2025", "Tahunan 2025",
@@ -29,14 +30,20 @@ TABLE_LABELS = {
 
 @st.cache_data
 def load_data() -> pd.DataFrame:
-    return pd.read_csv(DATA_PATH)
+    frame = pd.read_csv(DATA_PATH)
+    frame["nilai"] = pd.to_numeric(frame["nilai"], errors="coerce")
+    return frame
 
 
 def format_id(value: float, decimals: int = 2) -> str:
+    if pd.isna(value):
+        return "Belum tersedia"
     return f"{value:,.{decimals}f}".replace(",", "_").replace(".", ",").replace("_", ".")
 
 
 def status(value: float) -> str:
+    if pd.isna(value):
+        return "Belum tersedia"
     if value <= -5:
         return "Kontraksi tajam"
     if value < 0:
@@ -64,7 +71,7 @@ with st.sidebar:
     st.caption("Sistem Gerak Cepat Pertumbuhan Ekonomi Daerah")
     st.divider()
     selected_period = st.selectbox("Periode analisis", PERIODS, index=len(PERIODS) - 1)
-    st.success("Data lengkap lima tabel tersedia untuk 2023–Triwulan I 2026.")
+    st.success("Data lengkap lima tabel tersedia untuk 2022–Triwulan I 2026.")
     st.caption("Harga konstan menggunakan tahun dasar 2010.")
 
 st.markdown("""
@@ -83,15 +90,16 @@ sectors = period_data[period_data["kode"] != "PDRB"].pivot(
 
 m1, m2, m3, m4 = st.columns(4)
 m1.metric("PDRB harga berlaku", f"Rp{format_id(pdrb['ADHB'] / 1_000_000)} T", selected_period)
-m2.metric("Pertumbuhan y-on-y", f"{format_id(pdrb['Y-on-Y'])}%", status(pdrb["Y-on-Y"]))
-m3.metric("Pertumbuhan q-to-q", f"{format_id(pdrb['Q-to-Q'])}%", status(pdrb["Q-to-Q"]), delta_color="inverse")
+m2.metric("Pertumbuhan y-on-y", f"{format_id(pdrb['Y-on-Y'])}{'%' if pd.notna(pdrb['Y-on-Y']) else ''}", status(pdrb["Y-on-Y"]))
+m3.metric("Pertumbuhan q-to-q", f"{format_id(pdrb['Q-to-Q'])}{'%' if pd.notna(pdrb['Q-to-Q']) else ''}", status(pdrb["Q-to-Q"]), delta_color="inverse")
 m4.metric("PDRB harga konstan", f"Rp{format_id(pdrb['ADHK'] / 1_000_000)} T")
 
 trend = data[(data["tabel"] == "Y-on-Y") & (data["kode"] == "PDRB") & data["periode"].str.startswith("Triwulan")].copy()
 trend["Periode"] = trend["periode"].str.replace("Triwulan ", "T", regex=False)
 st.subheader("Pertumbuhan y-on-y per triwulan")
 st.line_chart(trend.set_index("Periode")[["nilai"]].rename(columns={"nilai": "Pertumbuhan y-on-y (%)"}), color="#0f766e", height=340)
-st.caption(f"Pada {selected_period}, pertumbuhan y-on-y tercatat {format_id(pdrb['Y-on-Y'])}%.")
+growth_text = f"{format_id(pdrb['Y-on-Y'])}%" if pd.notna(pdrb["Y-on-Y"]) else "belum tersedia pada workbook sumber"
+st.caption(f"Pada {selected_period}, pertumbuhan y-on-y {growth_text}.")
 
 left, right = st.columns([1.25, 1])
 with left:

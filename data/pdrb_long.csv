@@ -1,0 +1,1441 @@
+tabel,kode,lapangan_usaha,periode,nilai
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2023,2204396.201
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2023,2033149.781
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2023,2150608.057
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2023,2196106.443
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2023,8584260.481
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2024,2384438.946
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2024,2171522.183
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2024,2322545.007
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2024,2422605.833
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2024,9301111.969
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2025,2592670.911
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2025,2412612.571
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2025,2554183.162
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2025,2681948.993
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2025,10241415.64
+ADHB,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2026,2804770.882
+ADHB,B,Pertambangan dan Penggalian,Triwulan I 2023,68586.17753
+ADHB,B,Pertambangan dan Penggalian,Triwulan II 2023,78376.9127
+ADHB,B,Pertambangan dan Penggalian,Triwulan III 2023,79954.8259
+ADHB,B,Pertambangan dan Penggalian,Triwulan IV 2023,83199.67129
+ADHB,B,Pertambangan dan Penggalian,Tahunan 2023,310117.5874
+ADHB,B,Pertambangan dan Penggalian,Triwulan I 2024,77335.23141
+ADHB,B,Pertambangan dan Penggalian,Triwulan II 2024,86401.28816
+ADHB,B,Pertambangan dan Penggalian,Triwulan III 2024,87057.48953
+ADHB,B,Pertambangan dan Penggalian,Triwulan IV 2024,88732.86185
+ADHB,B,Pertambangan dan Penggalian,Tahunan 2024,339526.871
+ADHB,B,Pertambangan dan Penggalian,Triwulan I 2025,81986.90849
+ADHB,B,Pertambangan dan Penggalian,Triwulan II 2025,90820.16289
+ADHB,B,Pertambangan dan Penggalian,Triwulan III 2025,93116.41296
+ADHB,B,Pertambangan dan Penggalian,Triwulan IV 2025,98305.85946
+ADHB,B,Pertambangan dan Penggalian,Tahunan 2025,364229.3438
+ADHB,B,Pertambangan dan Penggalian,Triwulan I 2026,88989.48137
+ADHB,C,Industri Pengolahan,Triwulan I 2023,731958.1586
+ADHB,C,Industri Pengolahan,Triwulan II 2023,731012.1995
+ADHB,C,Industri Pengolahan,Triwulan III 2023,730266.2852
+ADHB,C,Industri Pengolahan,Triwulan IV 2023,796119.3193
+ADHB,C,Industri Pengolahan,Tahunan 2023,2989355.963
+ADHB,C,Industri Pengolahan,Triwulan I 2024,767643.2399
+ADHB,C,Industri Pengolahan,Triwulan II 2024,805121.3154
+ADHB,C,Industri Pengolahan,Triwulan III 2024,815089.4477
+ADHB,C,Industri Pengolahan,Triwulan IV 2024,915939.9378
+ADHB,C,Industri Pengolahan,Tahunan 2024,3303793.941
+ADHB,C,Industri Pengolahan,Triwulan I 2025,886159.8823
+ADHB,C,Industri Pengolahan,Triwulan II 2025,907994.9988
+ADHB,C,Industri Pengolahan,Triwulan III 2025,925374.3035
+ADHB,C,Industri Pengolahan,Triwulan IV 2025,959097.9079
+ADHB,C,Industri Pengolahan,Tahunan 2025,3678627.092
+ADHB,C,Industri Pengolahan,Triwulan I 2026,955678.3834
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan I 2023,2732.329843
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan II 2023,2883.230341
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan III 2023,2922.478716
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan IV 2023,2736.191086
+ADHB,D,Pengadaan Listrik dan Gas,Tahunan 2023,11274.22999
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan I 2024,2928.087384
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan II 2024,3050.40402
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan III 2024,3049.134459
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan IV 2024,2972.818476
+ADHB,D,Pengadaan Listrik dan Gas,Tahunan 2024,12000.44434
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan I 2025,3073.806565
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan II 2025,3190.156017
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan III 2025,3175.918624
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan IV 2025,3216.726724
+ADHB,D,Pengadaan Listrik dan Gas,Tahunan 2025,12656.60793
+ADHB,D,Pengadaan Listrik dan Gas,Triwulan I 2026,3239.001584
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2023,3546.9060479953723
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2023,3687.7815235810576
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2023,3706.6539742615164
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2023,3691.746371208368
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2023,14633.08792
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2024,3784.905837507775
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2024,3976.4700749620483
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2024,3982.93920255487
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2024,3948.506079941693
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2024,15692.82119
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2025,3906.299312565408
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2025,4219.921540775279
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2025,4229.913614866635
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2025,4259.236537901154
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2025,16615.37101
+ADHB,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2026,4456.86437554971
+ADHB,F,Konstruksi,Triwulan I 2023,495931.883286421
+ADHB,F,Konstruksi,Triwulan II 2023,513610.648831041
+ADHB,F,Konstruksi,Triwulan III 2023,535469.909551777
+ADHB,F,Konstruksi,Triwulan IV 2023,673003.36221115
+ADHB,F,Konstruksi,Tahunan 2023,2218015.804
+ADHB,F,Konstruksi,Triwulan I 2024,587910.138307936
+ADHB,F,Konstruksi,Triwulan II 2024,603315.484716731
+ADHB,F,Konstruksi,Triwulan III 2024,623179.90807467
+ADHB,F,Konstruksi,Triwulan IV 2024,717381.339737462
+ADHB,F,Konstruksi,Tahunan 2024,2531786.871
+ADHB,F,Konstruksi,Triwulan I 2025,609569.694275427
+ADHB,F,Konstruksi,Triwulan II 2025,636360.3343009
+ADHB,F,Konstruksi,Triwulan III 2025,658679.479581847
+ADHB,F,Konstruksi,Triwulan IV 2025,766206.1595813617
+ADHB,F,Konstruksi,Tahunan 2025,2670815.668
+ADHB,F,Konstruksi,Triwulan I 2026,671177.703014028
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2023,1127576.366
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2023,1205763.12
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2023,1194061.763
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2023,1201670.601
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2023,4729071.85
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2024,1204066.529
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2024,1314617.617
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2024,1283688.06
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2024,1302919.533
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2024,5105291.739
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2025,1309209.482
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2025,1427146.851
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2025,1398824.482
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2025,1396771.087
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2025,5531951.902
+ADHB,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2026,1431022.844
+ADHB,H,Transportasi dan Pergudangan,Triwulan I 2023,135970.6988
+ADHB,H,Transportasi dan Pergudangan,Triwulan II 2023,186549.0122
+ADHB,H,Transportasi dan Pergudangan,Triwulan III 2023,171844.8587
+ADHB,H,Transportasi dan Pergudangan,Triwulan IV 2023,165404.8023
+ADHB,H,Transportasi dan Pergudangan,Tahunan 2023,659769.372
+ADHB,H,Transportasi dan Pergudangan,Triwulan I 2024,153518.7241
+ADHB,H,Transportasi dan Pergudangan,Triwulan II 2024,199662.5644
+ADHB,H,Transportasi dan Pergudangan,Triwulan III 2024,187460.1291
+ADHB,H,Transportasi dan Pergudangan,Triwulan IV 2024,178669.5187
+ADHB,H,Transportasi dan Pergudangan,Tahunan 2024,719310.9363
+ADHB,H,Transportasi dan Pergudangan,Triwulan I 2025,172229.3738
+ADHB,H,Transportasi dan Pergudangan,Triwulan II 2025,215428.5872
+ADHB,H,Transportasi dan Pergudangan,Triwulan III 2025,201589.1897
+ADHB,H,Transportasi dan Pergudangan,Triwulan IV 2025,193710.6725
+ADHB,H,Transportasi dan Pergudangan,Tahunan 2025,782957.8231
+ADHB,H,Transportasi dan Pergudangan,Triwulan I 2026,199063.5665
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2023,119860.6849
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2023,123887.0292
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2023,127701.1163
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2023,133472.2199
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2023,504921.0503
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2024,136048.8464
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2024,140642.6452
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2024,142138.2843
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2024,143269.4634
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2024,562099.2394
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2025,143942.5702
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2025,150218.8857
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2025,149696.4503
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2025,154296.7862
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2025,598154.6924
+ADHB,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2026,156950.1089
+ADHB,J,Informasi dan Komunikasi,Triwulan I 2023,276162.890655615
+ADHB,J,Informasi dan Komunikasi,Triwulan II 2023,293204.332615287
+ADHB,J,Informasi dan Komunikasi,Triwulan III 2023,286995.485170578
+ADHB,J,Informasi dan Komunikasi,Triwulan IV 2023,293670.146093586
+ADHB,J,Informasi dan Komunikasi,Tahunan 2023,1150032.855
+ADHB,J,Informasi dan Komunikasi,Triwulan I 2024,301120.817467993
+ADHB,J,Informasi dan Komunikasi,Triwulan II 2024,318888.56950057
+ADHB,J,Informasi dan Komunikasi,Triwulan III 2024,308950.663327342
+ADHB,J,Informasi dan Komunikasi,Triwulan IV 2024,311783.31964195
+ADHB,J,Informasi dan Komunikasi,Tahunan 2024,1240743.37
+ADHB,J,Informasi dan Komunikasi,Triwulan I 2025,321971.128154719
+ADHB,J,Informasi dan Komunikasi,Triwulan II 2025,341740.757812484
+ADHB,J,Informasi dan Komunikasi,Triwulan III 2025,330972.918187914
+ADHB,J,Informasi dan Komunikasi,Triwulan IV 2025,335327.6009556191
+ADHB,J,Informasi dan Komunikasi,Tahunan 2025,1330012.405
+ADHB,J,Informasi dan Komunikasi,Triwulan I 2026,338972.1177189143
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan I 2023,161659.747
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan II 2023,160141.0173
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan III 2023,160504.7892
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan IV 2023,161724.9757
+ADHB,K,Jasa Keuangan dan Asuransi,Tahunan 2023,644030.5292
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan I 2024,170225.0275
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan II 2024,169305.6731
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan III 2024,170535.5851
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan IV 2024,171217.5678
+ADHB,K,Jasa Keuangan dan Asuransi,Tahunan 2024,681283.8535
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan I 2025,175660.2777
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan II 2025,177100.1387
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan III 2025,174123.8368
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan IV 2025,177702.4588
+ADHB,K,Jasa Keuangan dan Asuransi,Tahunan 2025,704586.712
+ADHB,K,Jasa Keuangan dan Asuransi,Triwulan I 2026,184368.0348
+ADHB,L,Real Estate,Triwulan I 2023,198436.59517659125
+ADHB,L,Real Estate,Triwulan II 2023,199340.83528164
+ADHB,L,Real Estate,Triwulan III 2023,199866.958987545
+ADHB,L,Real Estate,Triwulan IV 2023,206081.6503603616
+ADHB,L,Real Estate,Tahunan 2023,803726.0398
+ADHB,L,Real Estate,Triwulan I 2024,222970.82338109473
+ADHB,L,Real Estate,Triwulan II 2024,227335.70307201738
+ADHB,L,Real Estate,Triwulan III 2024,228134.014769402
+ADHB,L,Real Estate,Triwulan IV 2024,222863.6957713606
+ADHB,L,Real Estate,Tahunan 2024,901304.237
+ADHB,L,Real Estate,Triwulan I 2025,233613.0465034809
+ADHB,L,Real Estate,Triwulan II 2025,237762.1088215401
+ADHB,L,Real Estate,Triwulan III 2025,239738.42114258662
+ADHB,L,Real Estate,Triwulan IV 2025,242435.61468663975
+ADHB,L,Real Estate,Tahunan 2025,953549.1912
+ADHB,L,Real Estate,Triwulan I 2026,255074.46400476742
+ADHB,"M,N",Jasa Perusahaan,Triwulan I 2023,21014.87518324157
+ADHB,"M,N",Jasa Perusahaan,Triwulan II 2023,24072.9206432616
+ADHB,"M,N",Jasa Perusahaan,Triwulan III 2023,24425.8676409977
+ADHB,"M,N",Jasa Perusahaan,Triwulan IV 2023,25299.897626416714
+ADHB,"M,N",Jasa Perusahaan,Tahunan 2023,94813.56109
+ADHB,"M,N",Jasa Perusahaan,Triwulan I 2024,23109.4804049433
+ADHB,"M,N",Jasa Perusahaan,Triwulan II 2024,26322.3991259025
+ADHB,"M,N",Jasa Perusahaan,Triwulan III 2024,26374.5463804599
+ADHB,"M,N",Jasa Perusahaan,Triwulan IV 2024,26821.1641066443
+ADHB,"M,N",Jasa Perusahaan,Tahunan 2024,102627.59
+ADHB,"M,N",Jasa Perusahaan,Triwulan I 2025,25556.624624287084
+ADHB,"M,N",Jasa Perusahaan,Triwulan II 2025,27897.56043943101
+ADHB,"M,N",Jasa Perusahaan,Triwulan III 2025,27364.65582069844
+ADHB,"M,N",Jasa Perusahaan,Triwulan IV 2025,27624.053213164
+ADHB,"M,N",Jasa Perusahaan,Tahunan 2025,108442.8941
+ADHB,"M,N",Jasa Perusahaan,Triwulan I 2026,26502.997916401975
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2023,355569.16753022
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2023,433223.665325824
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2023,396154.137165855
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2023,424623.587970145
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2023,1609570.558
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2024,394794.171929485
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2024,465357.545875562
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2024,420576.154522447
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2024,449108.5577746567
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2024,1729836.43
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2025,410185.499326444
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2025,488592.526989152
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2025,452573.686918103
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2025,455815.6902296736
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2025,1807167.403
+ADHB,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2026,459988.49751748046
+ADHB,P,Jasa Pendidikan,Triwulan I 2023,252188.176156354
+ADHB,P,Jasa Pendidikan,Triwulan II 2023,277676.30338498
+ADHB,P,Jasa Pendidikan,Triwulan III 2023,295442.310987997
+ADHB,P,Jasa Pendidikan,Triwulan IV 2023,273401.212897164
+ADHB,P,Jasa Pendidikan,Tahunan 2023,1098708.003
+ADHB,P,Jasa Pendidikan,Triwulan I 2024,273735.115084825
+ADHB,P,Jasa Pendidikan,Triwulan II 2024,300680.681421455
+ADHB,P,Jasa Pendidikan,Triwulan III 2024,317156.54595167
+ADHB,P,Jasa Pendidikan,Triwulan IV 2024,292326.683596795
+ADHB,P,Jasa Pendidikan,Tahunan 2024,1183899.026
+ADHB,P,Jasa Pendidikan,Triwulan I 2025,287644.904175664
+ADHB,P,Jasa Pendidikan,Triwulan II 2025,310870.661444058
+ADHB,P,Jasa Pendidikan,Triwulan III 2025,334415.6207553049
+ADHB,P,Jasa Pendidikan,Triwulan IV 2025,317798.153486588
+ADHB,P,Jasa Pendidikan,Tahunan 2025,1250729.34
+ADHB,P,Jasa Pendidikan,Triwulan I 2026,307907.97094775987
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2023,125637.35292842114
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2023,140691.275621205
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2023,142497.613199013
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2023,144528.18476269
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2023,553354.4265
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2024,139524.173269257
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2024,149733.7526255818
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2024,154324.948558874
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2024,155953.01680296072
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2024,599535.8913
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2025,157078.583083352
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2025,165186.0007383619
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2025,167373.87192609
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2025,168247.9336087128
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2025,657886.3894
+ADHB,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2026,168413.97252862158
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan I 2023,52140.88279644793
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan II 2023,53473.85645027045
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan III 2023,51335.169019081695
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan IV 2023,56613.81153192694
+ADHB,"R,S,T,U",Jasa lainnya,Tahunan 2023,213563.7198
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan I 2024,57483.8995770268
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan II 2024,59434.8751742077
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan III 2024,56169.4215508793
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan IV 2024,60129.8721206052
+ADHB,"R,S,T,U",Jasa lainnya,Tahunan 2024,233218.0684
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan I 2025,62927.08252980859
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan II 2025,66472.4085406375
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan III 2025,60958.78786300046
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan IV 2025,66094.70502773677
+ADHB,"R,S,T,U",Jasa lainnya,Tahunan 2025,256452.984
+ADHB,"R,S,T,U",Jasa lainnya,Triwulan I 2026,65650.99823610633
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2023,6333369.093
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2023,6460743.922
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2023,6553758.279
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2023,6841347.823
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2023,26189219.12
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2024,6900638.157
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2024,7045369.171
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2024,7150412.28
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2024,7466643.69
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2024,28563063.3
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2025,7477386.074
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2025,7663614.632
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2025,7776391.112
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2025,8048859.638
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2025,30966251.46
+ADHB,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2026,8122227.889
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2023,1347828.834
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2023,1247153.472
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2023,1312511.352
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2023,1312263.645
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2023,5219757.303
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2024,1399062.917
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2024,1278509.345
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2024,1349913.603
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2024,1370989.256
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2024,5398475.121
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2025,1442704.591
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2025,1338046.9
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2025,1404949.877
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2025,1443937.853
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2025,5629639.22
+ADHK,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2026,1488193.84
+ADHK,B,Pertambangan dan Penggalian,Triwulan I 2023,33756.5151
+ADHK,B,Pertambangan dan Penggalian,Triwulan II 2023,37787.1982
+ADHK,B,Pertambangan dan Penggalian,Triwulan III 2023,38317.98351
+ADHK,B,Pertambangan dan Penggalian,Triwulan IV 2023,39212.60584
+ADHK,B,Pertambangan dan Penggalian,Tahunan 2023,149074.3027
+ADHK,B,Pertambangan dan Penggalian,Triwulan I 2024,36076.82433
+ADHK,B,Pertambangan dan Penggalian,Triwulan II 2024,40179.97043
+ADHK,B,Pertambangan dan Penggalian,Triwulan III 2024,40305.60635
+ADHK,B,Pertambangan dan Penggalian,Triwulan IV 2024,41024.74992
+ADHK,B,Pertambangan dan Penggalian,Tahunan 2024,157587.151
+ADHK,B,Pertambangan dan Penggalian,Triwulan I 2025,37658.20208
+ADHK,B,Pertambangan dan Penggalian,Triwulan II 2025,41731.32825
+ADHK,B,Pertambangan dan Penggalian,Triwulan III 2025,42390.76769
+ADHK,B,Pertambangan dan Penggalian,Triwulan IV 2025,43753.11738
+ADHK,B,Pertambangan dan Penggalian,Tahunan 2025,165533.4154
+ADHK,B,Pertambangan dan Penggalian,Triwulan I 2026,38702.08586
+ADHK,C,Industri Pengolahan,Triwulan I 2023,440813.8239
+ADHK,C,Industri Pengolahan,Triwulan II 2023,444270.4123
+ADHK,C,Industri Pengolahan,Triwulan III 2023,441851.5537
+ADHK,C,Industri Pengolahan,Triwulan IV 2023,479426.5598
+ADHK,C,Industri Pengolahan,Tahunan 2023,1806362.35
+ADHK,C,Industri Pengolahan,Triwulan I 2024,453438.8203
+ADHK,C,Industri Pengolahan,Triwulan II 2024,464879.0493
+ADHK,C,Industri Pengolahan,Triwulan III 2024,460985.8402
+ADHK,C,Industri Pengolahan,Triwulan IV 2024,499925.4347
+ADHK,C,Industri Pengolahan,Tahunan 2024,1879229.145
+ADHK,C,Industri Pengolahan,Triwulan I 2025,469619.6668
+ADHK,C,Industri Pengolahan,Triwulan II 2025,479440.5133
+ADHK,C,Industri Pengolahan,Triwulan III 2025,485120.2278
+ADHK,C,Industri Pengolahan,Triwulan IV 2025,499356.1448
+ADHK,C,Industri Pengolahan,Tahunan 2025,1933536.553
+ADHK,C,Industri Pengolahan,Triwulan I 2026,491699.4639
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan I 2023,1826.424617
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan II 2023,1925.903178
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan III 2023,1939.012375
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan IV 2023,1808.460991
+ADHK,D,Pengadaan Listrik dan Gas,Tahunan 2023,7499.801161
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan I 2024,1933.156064
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan II 2024,2012.83434
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan III 2024,2011.162053
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan IV 2024,1962.313571
+ADHK,D,Pengadaan Listrik dan Gas,Tahunan 2024,7919.466027
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan I 2025,2013.221226
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan II 2025,2078.456351
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan III 2025,2063.790133
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan IV 2025,2088.546268
+ADHK,D,Pengadaan Listrik dan Gas,Tahunan 2025,8244.013978
+ADHK,D,Pengadaan Listrik dan Gas,Triwulan I 2026,2078.725624
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2023,2718.187269272258
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2023,2825.3716173755906
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2023,2837.7736525145474
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2023,2815.4295736890654
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2023,11196.76211
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2024,2874.2694879504566
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2024,3019.2769746091194
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2024,3020.37526837782
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2024,2987.1349918277015
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2024,11901.05672
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2025,2953.242582053379
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2025,3176.454007946789
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2025,3177.15535426987
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2025,3169.3122579914216
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2025,12476.1642
+ADHK,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2026,3255.036414870107
+ADHK,F,Konstruksi,Triwulan I 2023,248620.513167224
+ADHK,F,Konstruksi,Triwulan II 2023,257535.809235684
+ADHK,F,Konstruksi,Triwulan III 2023,265743.1222275
+ADHK,F,Konstruksi,Triwulan IV 2023,309769.256499502
+ADHK,F,Konstruksi,Tahunan 2023,1081668.701
+ADHK,F,Konstruksi,Triwulan I 2024,266244.60077791737
+ADHK,F,Konstruksi,Triwulan II 2024,272534.3845382914
+ADHK,F,Konstruksi,Triwulan III 2024,280652.068683586
+ADHK,F,Konstruksi,Triwulan IV 2024,322803.4600383774
+ADHK,F,Konstruksi,Tahunan 2024,1142234.514
+ADHK,F,Konstruksi,Triwulan I 2025,273678.678556319
+ADHK,F,Konstruksi,Triwulan II 2025,285333.7025585115
+ADHK,F,Konstruksi,Triwulan III 2025,294585.670414858
+ADHK,F,Konstruksi,Triwulan IV 2025,340952.1762230107
+ADHK,F,Konstruksi,Tahunan 2025,1194550.228
+ADHK,F,Konstruksi,Triwulan I 2026,293985.71649874514
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2023,650498.376
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2023,690457.7005
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2023,680616.3684
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2023,685167.6914
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2023,2706740.136
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2024,674588.3246
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2024,730007.5241
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2024,713329.4993
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2024,722764.7907
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2024,2840690.139
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2025,719460.9717
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2025,782514.0261
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2025,762940.6114
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2025,763019.7828
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2025,3027935.392
+ADHK,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2026,774138.6558
+ADHK,H,Transportasi dan Pergudangan,Triwulan I 2023,79154.68159
+ADHK,H,Transportasi dan Pergudangan,Triwulan II 2023,103705.8941
+ADHK,H,Transportasi dan Pergudangan,Triwulan III 2023,96019.71213
+ADHK,H,Transportasi dan Pergudangan,Triwulan IV 2023,91494.25793
+ADHK,H,Transportasi dan Pergudangan,Tahunan 2023,370374.5458
+ADHK,H,Transportasi dan Pergudangan,Triwulan I 2024,83621.57165
+ADHK,H,Transportasi dan Pergudangan,Triwulan II 2024,108845.2959
+ADHK,H,Transportasi dan Pergudangan,Triwulan III 2024,102474.2842
+ADHK,H,Transportasi dan Pergudangan,Triwulan IV 2024,97101.06489
+ADHK,H,Transportasi dan Pergudangan,Tahunan 2024,392042.2166
+ADHK,H,Transportasi dan Pergudangan,Triwulan I 2025,92392.44368
+ADHK,H,Transportasi dan Pergudangan,Triwulan II 2025,115372.4801
+ADHK,H,Transportasi dan Pergudangan,Triwulan III 2025,108239.9426
+ADHK,H,Transportasi dan Pergudangan,Triwulan IV 2025,103310.0975
+ADHK,H,Transportasi dan Pergudangan,Tahunan 2025,419314.9639
+ADHK,H,Transportasi dan Pergudangan,Triwulan I 2026,105091.4131
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2023,68936.01247
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2023,70846.87823
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2023,72834.80078
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2023,73993.99105
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2023,286611.6825
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2024,73876.0478
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2024,76359.26729
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2024,76957.56391
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2024,77465.39835
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2024,304658.2774
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2025,77271.34932
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2025,80435.25614
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2025,80078.46643
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2025,81930.98286
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2025,319716.0547
+ADHK,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2026,82683.22804
+ADHK,J,Informasi dan Komunikasi,Triwulan I 2023,240640.34579845623
+ADHK,J,Informasi dan Komunikasi,Triwulan II 2023,255089.0619887558
+ADHK,J,Informasi dan Komunikasi,Triwulan III 2023,249545.93666991
+ADHK,J,Informasi dan Komunikasi,Triwulan IV 2023,253432.43897907104
+ADHK,J,Informasi dan Komunikasi,Tahunan 2023,998707.7834
+ADHK,J,Informasi dan Komunikasi,Triwulan I 2024,259655.437474885
+ADHK,J,Informasi dan Komunikasi,Triwulan II 2024,274912.27748118644
+ADHK,J,Informasi dan Komunikasi,Triwulan III 2024,266166.9128124813
+ADHK,J,Informasi dan Komunikasi,Triwulan IV 2024,268674.9310194034
+ADHK,J,Informasi dan Komunikasi,Tahunan 2024,1069409.559
+ADHK,J,Informasi dan Komunikasi,Triwulan I 2025,277513.76265161
+ADHK,J,Informasi dan Komunikasi,Triwulan II 2025,294712.14966851
+ADHK,J,Informasi dan Komunikasi,Triwulan III 2025,284690.697182578
+ADHK,J,Informasi dan Komunikasi,Triwulan IV 2025,285812.468239791
+ADHK,J,Informasi dan Komunikasi,Tahunan 2025,1142729.078
+ADHK,J,Informasi dan Komunikasi,Triwulan I 2026,288532.54668025556
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan I 2023,103449.2316
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan II 2023,102513.3384
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan III 2023,102559.1075
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan IV 2023,103402.2034
+ADHK,K,Jasa Keuangan dan Asuransi,Tahunan 2023,411923.8809
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan I 2024,108312.7041
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan II 2024,107828.5071
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan III 2024,108381.9415
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan IV 2024,108794.7608
+ADHK,K,Jasa Keuangan dan Asuransi,Tahunan 2024,433317.9136
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan I 2025,111525.6948
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan II 2025,111771.8413
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan III 2025,109754.8315
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan IV 2025,112482.4155
+ADHK,K,Jasa Keuangan dan Asuransi,Tahunan 2025,445534.7832
+ADHK,K,Jasa Keuangan dan Asuransi,Triwulan I 2026,115417.9804
+ADHK,L,Real Estate,Triwulan I 2023,125998.07445412705
+ADHK,L,Real Estate,Triwulan II 2023,126025.026469965
+ADHK,L,Real Estate,Triwulan III 2023,126124.472051629
+ADHK,L,Real Estate,Triwulan IV 2023,124887.87599054704
+ADHK,L,Real Estate,Tahunan 2023,503035.449
+ADHK,L,Real Estate,Triwulan I 2024,134133.33348790283
+ADHK,L,Real Estate,Triwulan II 2024,136693.84881968977
+ADHK,L,Real Estate,Triwulan III 2024,136744.371751101
+ADHK,L,Real Estate,Triwulan IV 2024,133521.66850945397
+ADHK,L,Real Estate,Tahunan 2024,541093.2226
+ADHK,L,Real Estate,Triwulan I 2025,139843.04779622785
+ADHK,L,Real Estate,Triwulan II 2025,141420.51413558132
+ADHK,L,Real Estate,Triwulan III 2025,142415.07972251228
+ADHK,L,Real Estate,Triwulan IV 2025,141723.516204244
+ADHK,L,Real Estate,Tahunan 2025,565402.1579
+ADHK,L,Real Estate,Triwulan I 2026,148561.55102013593
+ADHK,"M,N",Jasa Perusahaan,Triwulan I 2023,13303.20329905639
+ADHK,"M,N",Jasa Perusahaan,Triwulan II 2023,15136.762767246764
+ADHK,"M,N",Jasa Perusahaan,Triwulan III 2023,15277.2395382367
+ADHK,"M,N",Jasa Perusahaan,Triwulan IV 2023,15817.071220842472
+ADHK,"M,N",Jasa Perusahaan,Tahunan 2023,59534.27683
+ADHK,"M,N",Jasa Perusahaan,Triwulan I 2024,14318.84733587568
+ADHK,"M,N",Jasa Perusahaan,Triwulan II 2024,16157.92593256805
+ADHK,"M,N",Jasa Perusahaan,Triwulan III 2024,16197.490024337
+ADHK,"M,N",Jasa Perusahaan,Triwulan IV 2024,16441.87884486056
+ADHK,"M,N",Jasa Perusahaan,Tahunan 2024,63116.14214
+ADHK,"M,N",Jasa Perusahaan,Triwulan I 2025,15674.182017255915
+ADHK,"M,N",Jasa Perusahaan,Triwulan II 2025,17067.447424802183
+ADHK,"M,N",Jasa Perusahaan,Triwulan III 2025,16660.389646258795
+ADHK,"M,N",Jasa Perusahaan,Triwulan IV 2025,16711.7627274581
+ADHK,"M,N",Jasa Perusahaan,Tahunan 2025,66113.78182
+ADHK,"M,N",Jasa Perusahaan,Triwulan I 2026,15897.646402345137
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2023,129477.464931652
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2023,154632.416821205
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2023,140654.099035095
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2023,149997.124111495
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2023,574761.1049
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2024,138189.222574968
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2024,161989.799538962
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2024,146533.705728316
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2024,156345.0005394758
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2024,603057.7284
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2025,139883.516327429
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2025,164351.608486631
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2025,152270.757809621
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2025,161932.704108476
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2025,618438.5867
+ADHK,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2026,158127.91490622668
+ADHK,P,Jasa Pendidikan,Triwulan I 2023,149704.00193939
+ADHK,P,Jasa Pendidikan,Triwulan II 2023,164255.478996995
+ADHK,P,Jasa Pendidikan,Triwulan III 2023,172637.75497765082
+ADHK,P,Jasa Pendidikan,Triwulan IV 2023,158589.1915385106
+ADHK,P,Jasa Pendidikan,Tahunan 2023,645186.4275
+ADHK,P,Jasa Pendidikan,Triwulan I 2024,158617.398635589
+ADHK,P,Jasa Pendidikan,Triwulan II 2024,174164.330720754
+ADHK,P,Jasa Pendidikan,Triwulan III 2024,182196.5283719795
+ADHK,P,Jasa Pendidikan,Triwulan IV 2024,167245.144239897
+ADHK,P,Jasa Pendidikan,Tahunan 2024,682223.402
+ADHK,P,Jasa Pendidikan,Triwulan I 2025,163871.629395872
+ADHK,P,Jasa Pendidikan,Triwulan II 2025,175250.938365479
+ADHK,P,Jasa Pendidikan,Triwulan III 2025,183923.49612783166
+ADHK,P,Jasa Pendidikan,Triwulan IV 2025,172489.949873244
+ADHK,P,Jasa Pendidikan,Tahunan 2025,695536.0138
+ADHK,P,Jasa Pendidikan,Triwulan I 2026,165105.21445760853
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2023,70788.13591108455
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2023,79227.7216522478
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2023,79339.4121633193
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2023,81372.6073838711
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2023,310727.8771
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2024,77976.6962632589
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2024,83255.15499387214
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2024,85774.8899986988
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2024,86018.18615633351
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2024,333024.9274
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2025,86114.86909542068
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2025,90270.63278825041
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2025,90380.73881217126
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2025,94233.9075964754
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2025,361000.1483
+ADHK,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2026,93603.26340843289
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan I 2023,33179.33231718663
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan II 2023,33708.462692430905
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan III 2023,32239.192692454642
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan IV 2023,34729.57705709113
+ADHK,"R,S,T,U",Jasa lainnya,Tahunan 2023,133856.5648
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan I 2024,35091.73449692617
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan II 2024,36133.06437597756
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan III 2024,33972.618245899954
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan IV 2024,36337.08897817981
+ADHK,"R,S,T,U",Jasa lainnya,Tahunan 2024,141534.5061
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan I 2025,37982.03108094044
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan II 2025,39951.1199543452
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan III 2025,36550.354315186494
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan IV 2025,39094.23369496162
+ADHK,"R,S,T,U",Jasa lainnya,Tahunan 2025,153577.739
+ADHK,"R,S,T,U",Jasa lainnya,Triwulan I 2026,38085.81249706823
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2023,3740693.158
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2023,3787096.91
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2023,3831048.894
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2023,3918179.987
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2023,15277018.95
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2024,3918011.906
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2024,3967481.857
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2024,4005618.461
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2024,4110402.263
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2024,16001514.49
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2025,4090161.1
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2025,4162925.369
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2025,4200192.854
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2025,4305998.971
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2025,16759278.29
+ADHK,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2026,4303160.095
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2023,34.80605927
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2023,31.46928287
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2023,32.81488217
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2023,32.10049393
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2023,32.77784054
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2024,34.55389041
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2024,30.82197866
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2024,32.48127404
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2024,32.44571368
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2024,32.56342596
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2025,34.67349265
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2025,31.48139209
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2025,32.84535365
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2025,33.32085678
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2025,33.07282979
+Distribusi,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2026,34.53203875
+Distribusi,B,Pertambangan dan Penggalian,Triwulan I 2023,1.082933531
+Distribusi,B,Pertambangan dan Penggalian,Triwulan II 2023,1.213125201
+Distribusi,B,Pertambangan dan Penggalian,Triwulan III 2023,1.219984358
+Distribusi,B,Pertambangan dan Penggalian,Triwulan IV 2023,1.216129825
+Distribusi,B,Pertambangan dan Penggalian,Tahunan 2023,1.184142169
+Distribusi,B,Pertambangan dan Penggalian,Triwulan I 2024,1.120696806
+Distribusi,B,Pertambangan dan Penggalian,Triwulan II 2024,1.226355725
+Distribusi,B,Pertambangan dan Penggalian,Triwulan III 2024,1.217517062
+Distribusi,B,Pertambangan dan Penggalian,Triwulan IV 2024,1.1883902
+Distribusi,B,Pertambangan dan Penggalian,Tahunan 2024,1.188692079
+Distribusi,B,Pertambangan dan Penggalian,Triwulan I 2025,1.09646483
+Distribusi,B,Pertambangan dan Penggalian,Triwulan II 2025,1.185082592
+Distribusi,B,Pertambangan dan Penggalian,Triwulan III 2025,1.197424507
+Distribusi,B,Pertambangan dan Penggalian,Triwulan IV 2025,1.221363819
+Distribusi,B,Pertambangan dan Penggalian,Tahunan 2025,1.176213867
+Distribusi,B,Pertambangan dan Penggalian,Triwulan I 2026,1.095628965
+Distribusi,C,Industri Pengolahan,Triwulan I 2023,11.55716883
+Distribusi,C,Industri Pengolahan,Triwulan II 2023,11.31467534
+Distribusi,C,Industri Pengolahan,Triwulan III 2023,11.14271009
+Distribusi,C,Industri Pengolahan,Triwulan IV 2023,11.63687829
+Distribusi,C,Industri Pengolahan,Tahunan 2023,11.41445245
+Distribusi,C,Industri Pengolahan,Triwulan I 2024,11.1242355
+Distribusi,C,Industri Pengolahan,Triwulan II 2024,11.42766682
+Distribusi,C,Industri Pengolahan,Triwulan III 2024,11.39919512
+Distribusi,C,Industri Pengolahan,Triwulan IV 2024,12.26709049
+Distribusi,C,Industri Pengolahan,Tahunan 2024,11.56666533
+Distribusi,C,Industri Pengolahan,Triwulan I 2025,11.85119871
+Distribusi,C,Industri Pengolahan,Triwulan II 2025,11.84812967
+Distribusi,C,Industri Pengolahan,Triwulan III 2025,11.89979118
+Distribusi,C,Industri Pengolahan,Triwulan IV 2025,11.91594774
+Distribusi,C,Industri Pengolahan,Tahunan 2025,11.87947175
+Distribusi,C,Industri Pengolahan,Triwulan I 2026,11.76620992
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan I 2023,0.04314180655
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan II 2023,0.04462690947
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan III 2023,0.04459240929
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan IV 2023,0.03999491266
+Distribusi,D,Pengadaan Listrik dan Gas,Tahunan 2023,0.04304912619
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan I 2024,0.04243212465
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan II 2024,0.04329658171
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan III 2024,0.04264277834
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan IV 2024,0.03981465567
+Distribusi,D,Pengadaan Listrik dan Gas,Tahunan 2024,0.04201385619
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan I 2025,0.04110803607
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan II 2025,0.04162730213
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan III 2025,0.04084052072
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan IV 2025,0.03996499962
+Distribusi,D,Pengadaan Listrik dan Gas,Tahunan 2025,0.04087226362
+Distribusi,D,Pengadaan Listrik dan Gas,Triwulan I 2026,0.03987824065
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2023,0.05600346349
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2023,0.05707982808
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2023,0.05655768517
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2023,0.05396226689
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2023,0.05587447205
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2024,0.05484863503
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2024,0.05644090435
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2024,0.05570223152
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2024,0.05288194058
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2024,0.05494096005
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2025,0.05224150891
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2025,0.05506437554
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2025,0.05439430134
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2025,0.05291726691
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2025,0.05365638469
+Distribusi,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2026,0.05487243693
+Distribusi,F,Konstruksi,Triwulan I 2023,7.830459207
+Distribusi,F,Konstruksi,Triwulan II 2023,7.949713764
+Distribusi,F,Konstruksi,Triwulan III 2023,8.170425071
+Distribusi,F,Konstruksi,Triwulan IV 2023,9.837292002
+Distribusi,F,Konstruksi,Tahunan 2023,8.469194114
+Distribusi,F,Konstruksi,Triwulan I 2024,8.519648835
+Distribusi,F,Konstruksi,Triwulan II 2024,8.563291292
+Distribusi,F,Konstruksi,Triwulan III 2024,8.715300372
+Distribusi,F,Konstruksi,Triwulan IV 2024,9.607815365
+Distribusi,F,Konstruksi,Tahunan 2024,8.863849246
+Distribusi,F,Konstruksi,Triwulan I 2025,8.152176285
+Distribusi,F,Konstruksi,Triwulan II 2025,8.303657802
+Distribusi,F,Konstruksi,Triwulan III 2025,8.470246289
+Distribusi,F,Konstruksi,Triwulan IV 2025,9.519437461
+Distribusi,F,Konstruksi,Tahunan 2025,8.624924045
+Distribusi,F,Konstruksi,Triwulan I 2026,8.263468006
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2023,17.80373684
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2023,18.6629146
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2023,18.21949653
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2023,17.56482249
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2023,18.05732286
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2024,17.44862578
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2024,18.65931486
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2024,17.95264398
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2024,17.44986887
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2024,17.87375424
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2025,17.50891915
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2025,18.62237234
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2025,17.98809321
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2025,17.35365194
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2025,17.8644545
+Distribusi,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2026,17.61860002
+Distribusi,H,Transportasi dan Pergudangan,Triwulan I 2023,2.146893648
+Distribusi,H,Transportasi dan Pergudangan,Triwulan II 2023,2.887423096
+Distribusi,H,Transportasi dan Pergudangan,Triwulan III 2023,2.622081123
+Distribusi,H,Transportasi dan Pergudangan,Triwulan IV 2023,2.417722452
+Distribusi,H,Transportasi dan Pergudangan,Tahunan 2023,2.519240337
+Distribusi,H,Transportasi dan Pergudangan,Triwulan I 2024,2.22470329
+Distribusi,H,Transportasi dan Pergudangan,Triwulan II 2024,2.83395461
+Distribusi,H,Transportasi dan Pergudangan,Triwulan III 2024,2.621668818
+Distribusi,H,Transportasi dan Pergudangan,Triwulan IV 2024,2.392902703
+Distribusi,H,Transportasi dan Pergudangan,Tahunan 2024,2.518325604
+Distribusi,H,Transportasi dan Pergudangan,Triwulan I 2025,2.303336648
+Distribusi,H,Transportasi dan Pergudangan,Triwulan II 2025,2.811057151
+Distribusi,H,Transportasi dan Pergudangan,Triwulan III 2025,2.592323185
+Distribusi,H,Transportasi dan Pergudangan,Triwulan IV 2025,2.406684688
+Distribusi,H,Transportasi dan Pergudangan,Tahunan 2025,2.528422997
+Distribusi,H,Transportasi dan Pergudangan,Triwulan I 2026,2.450849314
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2023,1.892526445
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2023,1.91753505
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2023,1.948517337
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2023,1.950963806
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2023,1.927972911
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2024,1.971540071
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2024,1.99624238
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2024,1.987833411
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2024,1.918793361
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2024,1.967923516
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2025,1.925038627
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2025,1.960157092
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2025,1.925011848
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2025,1.917001825
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2025,1.931634164
+Distribusi,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2026,1.932352933
+Distribusi,J,Informasi dan Komunikasi,Triwulan I 2023,4.360442074
+Distribusi,J,Informasi dan Komunikasi,Triwulan II 2023,4.538244143
+Distribusi,J,Informasi dan Komunikasi,Triwulan III 2023,4.379097808
+Distribusi,J,Informasi dan Komunikasi,Triwulan IV 2023,4.292577336
+Distribusi,J,Informasi dan Komunikasi,Tahunan 2023,4.391245304
+Distribusi,J,Informasi dan Komunikasi,Triwulan I 2024,4.363666238
+Distribusi,J,Informasi dan Komunikasi,Triwulan II 2024,4.526215188
+Distribusi,J,Informasi dan Komunikasi,Triwulan III 2024,4.320739158
+Distribusi,J,Informasi dan Komunikasi,Triwulan IV 2024,4.175682309
+Distribusi,J,Informasi dan Komunikasi,Tahunan 2024,4.343873614
+Distribusi,J,Informasi dan Komunikasi,Triwulan I 2025,4.305931578
+Distribusi,J,Informasi dan Komunikasi,Triwulan II 2025,4.45926334
+Distribusi,J,Informasi dan Komunikasi,Triwulan III 2025,4.256124897
+Distribusi,J,Informasi dan Komunikasi,Triwulan IV 2025,4.166150437
+Distribusi,J,Informasi dan Komunikasi,Tahunan 2025,4.295038445
+Distribusi,J,Informasi dan Komunikasi,Triwulan I 2026,4.173388414
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan I 2023,2.552507909
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan II 2023,2.478677676
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan III 2023,2.449049574
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan IV 2023,2.363934416
+Distribusi,K,Jasa Keuangan dan Asuransi,Tahunan 2023,2.459143689
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan I 2024,2.466801238
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan II 2024,2.403077383
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan III 2024,2.384975557
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan IV 2024,2.293099482
+Distribusi,K,Jasa Keuangan dan Asuransi,Tahunan 2024,2.385191835
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan I 2025,2.349220382
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan II 2025,2.310921767
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan III 2025,2.23913425
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan IV 2025,2.207796716
+Distribusi,K,Jasa Keuangan dan Asuransi,Tahunan 2025,2.275337436
+Distribusi,K,Jasa Keuangan dan Asuransi,Triwulan I 2026,2.269919501
+Distribusi,L,Real Estate,Triwulan I 2023,3.133191707
+Distribusi,L,Real Estate,Triwulan II 2023,3.085416133
+Distribusi,L,Real Estate,Triwulan III 2023,3.049654114
+Distribusi,L,Real Estate,Triwulan IV 2023,3.012296052
+Distribusi,L,Real Estate,Tahunan 2023,3.068919452
+Distribusi,L,Real Estate,Triwulan I 2024,3.23116237
+Distribusi,L,Real Estate,Triwulan II 2024,3.226739402
+Distribusi,L,Real Estate,Triwulan III 2024,3.190501552
+Distribusi,L,Real Estate,Triwulan IV 2024,2.984790825
+Distribusi,L,Real Estate,Tahunan 2024,3.155488708
+Distribusi,L,Real Estate,Triwulan I 2025,3.12426086
+Distribusi,L,Real Estate,Triwulan II 2025,3.102479969
+Distribusi,L,Real Estate,Triwulan III 2025,3.082900766
+Distribusi,L,Real Estate,Triwulan IV 2025,3.012049229
+Distribusi,L,Real Estate,Tahunan 2025,3.079317471
+Distribusi,L,Real Estate,Triwulan I 2026,3.140449486
+Distribusi,"M,N",Jasa Perusahaan,Triwulan I 2023,0.3318119452
+Distribusi,"M,N",Jasa Perusahaan,Triwulan II 2023,0.3726029221
+Distribusi,"M,N",Jasa Perusahaan,Triwulan III 2023,0.3727001607
+Distribusi,"M,N",Jasa Perusahaan,Triwulan IV 2023,0.3698086734
+Distribusi,"M,N",Jasa Perusahaan,Tahunan 2023,0.3620327917
+Distribusi,"M,N",Jasa Perusahaan,Triwulan I 2024,0.3348890332
+Distribusi,"M,N",Jasa Perusahaan,Triwulan II 2024,0.373612773
+Distribusi,"M,N",Jasa Perusahaan,Triwulan III 2024,0.3688535059
+Distribusi,"M,N",Jasa Perusahaan,Triwulan IV 2024,0.3592131247
+Distribusi,"M,N",Jasa Perusahaan,Tahunan 2024,0.3593017631
+Distribusi,"M,N",Jasa Perusahaan,Triwulan I 2025,0.3417855434
+Distribusi,"M,N",Jasa Perusahaan,Triwulan II 2025,0.3640261388
+Distribusi,"M,N",Jasa Perusahaan,Triwulan III 2025,0.3518940268
+Distribusi,"M,N",Jasa Perusahaan,Triwulan IV 2025,0.3432045588
+Distribusi,"M,N",Jasa Perusahaan,Tahunan 2025,0.3501970339
+Distribusi,"M,N",Jasa Perusahaan,Triwulan I 2026,0.3263020723
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2023,5.614218314
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2023,6.705476499
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2023,6.044686427
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2023,6.206724157
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2023,6.145928028
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2024,5.721125539
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2024,6.605154884
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2024,5.881844823
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2024,6.014865265
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2024,6.056200667
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2025,5.48568036
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2025,6.37548403
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2025,5.81984214
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2025,5.663108946
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2025,5.835925624
+Distribusi,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2026,5.663329123
+Distribusi,P,Jasa Pendidikan,Triwulan I 2023,3.981896088
+Distribusi,P,Jasa Pendidikan,Triwulan II 2023,4.297899851
+Distribusi,P,Jasa Pendidikan,Triwulan III 2023,4.507983029
+Distribusi,P,Jasa Pendidikan,Triwulan IV 2023,3.996306283
+Distribusi,P,Jasa Pendidikan,Tahunan 2023,4.195268284
+Distribusi,P,Jasa Pendidikan,Triwulan I 2024,3.966808705
+Distribusi,P,Jasa Pendidikan,Triwulan II 2024,4.267777516
+Distribusi,P,Jasa Pendidikan,Triwulan III 2024,4.43550013
+Distribusi,P,Jasa Pendidikan,Triwulan IV 2024,3.91510156
+Distribusi,P,Jasa Pendidikan,Tahunan 2024,4.144860142
+Distribusi,P,Jasa Pendidikan,Triwulan I 2025,3.846864416
+Distribusi,P,Jasa Pendidikan,Triwulan II 2025,4.056449553
+Distribusi,P,Jasa Pendidikan,Triwulan III 2025,4.300396108
+Distribusi,P,Jasa Pendidikan,Triwulan IV 2025,3.948362473
+Distribusi,P,Jasa Pendidikan,Tahunan 2025,4.039007891
+Distribusi,P,Jasa Pendidikan,Triwulan I 2026,3.790929966
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2023,1.983736477
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2023,2.177632751
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2023,2.174288509
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2023,2.112568875
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2023,2.112909224
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2024,2.021902469
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2024,2.125279016
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2024,2.15826644
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2024,2.088662902
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2024,2.098990171
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2025,2.100715163
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2025,2.155458079
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2025,2.152333512
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2025,2.090332559
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2025,2.124527053
+Distribusi,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2026,2.073494795
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan I 2023,0.8232724483
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan II 2023,0.8276733623
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan III 2023,0.7832935978
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan IV 2023,0.8275242394
+Distribusi,"R,S,T,U",Jasa lainnya,Tahunan 2023,0.8154642521
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan I 2024,0.8330229505
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan II 2024,0.8436019991
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan III 2024,0.7855410199
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan IV 2024,0.8053132654
+Distribusi,"R,S,T,U",Jasa lainnya,Tahunan 2024,0.8165022987
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan I 2025,0.8415652462
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan II 2025,0.867376711
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan III 2025,0.7838956012
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan IV 2025,0.821168563
+Distribusi,"R,S,T,U",Jasa lainnya,Tahunan 2025,0.8281692872
+Distribusi,"R,S,T,U",Jasa lainnya,Triwulan I 2026,0.80828806
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2023,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2023,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2023,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2023,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2023,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2024,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2024,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2024,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2024,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2024,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2025,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2025,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2025,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2025,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2025,100.0
+Distribusi,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2026,100.0
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2023,5.184962313
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2023,-7.469447074
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2023,5.240564329
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2023,-0.01887281564
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2023,1.70745357
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2024,6.614469017
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2024,-8.616736994
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2024,5.584961759
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2024,1.561259434
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2024,3.423872167
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2025,5.230918786
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2025,-7.254270305
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2025,5.000047211
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2025,2.775043886
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2025,4.28202584
+Q-to-Q,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2026,3.064951012
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan I 2023,-8.184065642
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan II 2023,11.94045976
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan III 2023,1.404669642
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan IV 2023,2.3347323
+Q-to-Q,B,Pertambangan dan Penggalian,Tahunan 2023,5.839077033
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan I 2024,-7.996871015
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan II 2024,11.37335719
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan III 2024,0.3126829701
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan IV 2024,1.784227147
+Q-to-Q,B,Pertambangan dan Penggalian,Tahunan 2024,5.710473383
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan I 2025,-8.206138597
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan II 2025,10.81603992
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan III 2025,1.580202365
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan IV 2025,3.213788674
+Q-to-Q,B,Pertambangan dan Penggalian,Tahunan 2025,5.04245703
+Q-to-Q,B,Pertambangan dan Penggalian,Triwulan I 2026,-11.54439232
+Q-to-Q,C,Industri Pengolahan,Triwulan I 2023,-5.124305829
+Q-to-Q,C,Industri Pengolahan,Triwulan II 2023,0.7841379293
+Q-to-Q,C,Industri Pengolahan,Triwulan III 2023,-0.5444563926
+Q-to-Q,C,Industri Pengolahan,Triwulan IV 2023,8.503988692
+Q-to-Q,C,Industri Pengolahan,Tahunan 2023,1.111586859
+Q-to-Q,C,Industri Pengolahan,Triwulan I 2024,-5.420588194
+Q-to-Q,C,Industri Pengolahan,Triwulan II 2024,2.522992851
+Q-to-Q,C,Industri Pengolahan,Triwulan III 2024,-0.8374671083
+Q-to-Q,C,Industri Pengolahan,Triwulan IV 2024,8.447026147
+Q-to-Q,C,Industri Pengolahan,Tahunan 2024,4.033896899
+Q-to-Q,C,Industri Pengolahan,Triwulan I 2025,-6.062057614
+Q-to-Q,C,Industri Pengolahan,Triwulan II 2025,2.091234082
+Q-to-Q,C,Industri Pengolahan,Triwulan III 2025,1.184654682
+Q-to-Q,C,Industri Pengolahan,Triwulan IV 2025,2.93451318
+Q-to-Q,C,Industri Pengolahan,Tahunan 2025,2.889876861
+Q-to-Q,C,Industri Pengolahan,Triwulan I 2026,-1.533310651
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan I 2023,3.036987369
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan II 2023,5.446628402
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan III 2023,0.6806778558
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan IV 2023,-6.732880394
+Q-to-Q,D,Pengadaan Listrik dan Gas,Tahunan 2023,14.98512997
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan I 2024,6.8950933
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan II 2024,4.121668067
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan III 2024,-0.08308118689
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan IV 2024,-2.428868544
+Q-to-Q,D,Pengadaan Listrik dan Gas,Tahunan 2024,5.595679897
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan I 2025,2.5942671
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan II 2025,3.24033564
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan III 2025,-0.7056302949
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan IV 2025,1.199547099
+Q-to-Q,D,Pengadaan Listrik dan Gas,Tahunan 2025,4.09810396
+Q-to-Q,D,Pengadaan Listrik dan Gas,Triwulan I 2026,-0.4702143087
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2023,2.252838
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2023,3.943228979
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2023,0.438952351
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2023,-0.7873805864
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2023,7.192926977
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2024,2.089908936
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2024,5.045020561
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2024,0.03637605221
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2024,-1.100534655
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2024,6.290163199
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2025,-1.134612593
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2025,7.558181209
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2025,0.02207953653
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2025,-0.2468590737
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2025,4.832406843
+Q-to-Q,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2026,2.704818898
+Q-to-Q,F,Konstruksi,Triwulan I 2023,-13.76393962
+Q-to-Q,F,Konstruksi,Triwulan II 2023,3.585905264
+Q-to-Q,F,Konstruksi,Triwulan III 2023,3.186862835
+Q-to-Q,F,Konstruksi,Triwulan IV 2023,16.56717732
+Q-to-Q,F,Konstruksi,Tahunan 2023,6.60130904
+Q-to-Q,F,Konstruksi,Triwulan I 2024,-14.05066991
+Q-to-Q,F,Konstruksi,Triwulan II 2024,2.362408005
+Q-to-Q,F,Konstruksi,Triwulan III 2024,2.978590815
+Q-to-Q,F,Konstruksi,Triwulan IV 2024,15.01909163
+Q-to-Q,F,Konstruksi,Tahunan 2024,5.599294206
+Q-to-Q,F,Konstruksi,Triwulan I 2025,-15.21817067
+Q-to-Q,F,Konstruksi,Triwulan II 2025,4.258652542
+Q-to-Q,F,Konstruksi,Triwulan III 2025,3.242507903
+Q-to-Q,F,Konstruksi,Triwulan IV 2025,15.73956593
+Q-to-Q,F,Konstruksi,Tahunan 2025,4.5801202
+Q-to-Q,F,Konstruksi,Triwulan I 2026,-13.77508724
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2023,1.665965123
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2023,6.142878432
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2023,-1.42533454
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2023,0.6687060842
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2023,7.101861982
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2024,-1.544055123
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2024,8.21526218
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2024,-2.28463738
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2024,1.322711514
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2024,4.948757389
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2025,-0.4571084705
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2025,8.763929798
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2025,-2.501350019
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2025,0.01037713929
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2025,6.591540933
+Q-to-Q,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2026,1.457219495
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan I 2023,-6.937517471
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan II 2023,31.01675358
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan III 2023,-7.411518958
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan IV 2023,-4.713047031
+Q-to-Q,H,Transportasi dan Pergudangan,Tahunan 2023,5.231754286
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan I 2024,-8.604568701
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan II 2024,30.16413559
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan III 2024,-5.853272489
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan IV 2024,-5.243480649
+Q-to-Q,H,Transportasi dan Pergudangan,Tahunan 2024,5.850205169
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan I 2025,-4.849196269
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan II 2025,24.87220328
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan III 2025,-6.182182709
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan IV 2025,-4.554552512
+Q-to-Q,H,Transportasi dan Pergudangan,Tahunan 2025,6.956584293
+Q-to-Q,H,Transportasi dan Pergudangan,Triwulan I 2026,1.724241521
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2023,-0.3324670873
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2023,2.771941241
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2023,2.805942336
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2023,1.591533513
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2023,6.030510113
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2024,-0.1593957129
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2024,3.361332347
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2024,0.7835284992
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2024,0.6598889255
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2024,6.296531478
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2025,-0.2504976946
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2025,4.094540675
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2025,-0.4435737946
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2025,2.313376515
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2025,4.942513798
+Q-to-Q,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2026,0.9181449517
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan I 2023,2.061605616
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan II 2023,6.004278353
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan III 2023,-2.173015682
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan IV 2023,1.55742961
+Q-to-Q,J,Informasi dan Komunikasi,Tahunan 2023,8.670352643
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan I 2024,2.455486173
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan II 2024,5.875802238
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan III 2024,-3.181147364
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan IV 2024,0.9422727192
+Q-to-Q,J,Informasi dan Komunikasi,Tahunan 2024,7.079325557
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan I 2025,3.289786508
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan II 2025,6.197309587
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan III 2025,-3.400420545
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan IV 2025,0.3940315115
+Q-to-Q,J,Informasi dan Komunikasi,Tahunan 2025,6.856074771
+Q-to-Q,J,Informasi dan Komunikasi,Triwulan I 2026,0.9517004129
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan I 2023,5.4584493
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan II 2023,-0.9046884149
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan III 2023,0.04464692374
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan IV 2023,0.8220585265
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Tahunan 2023,5.735336155
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan I 2024,4.748932394
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan II 2024,-0.4470361612
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan III 2024,0.5132541917
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan IV 2024,0.380893124
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Tahunan 2024,5.19368593
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan I 2025,2.510170502
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan II 2025,0.220708292
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan III 2025,-1.804577729
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan IV 2025,2.485160753
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Tahunan 2025,2.819377933
+Q-to-Q,K,Jasa Keuangan dan Asuransi,Triwulan I 2026,2.609798894
+Q-to-Q,L,Real Estate,Triwulan I 2023,2.5175
+Q-to-Q,L,Real Estate,Triwulan II 2023,0.02139081566
+Q-to-Q,L,Real Estate,Triwulan III 2023,0.07890939161
+Q-to-Q,L,Real Estate,Triwulan IV 2023,-0.980456878
+Q-to-Q,L,Real Estate,Tahunan 2023,11.54746389
+Q-to-Q,L,Real Estate,Triwulan I 2024,7.403006436
+Q-to-Q,L,Real Estate,Triwulan II 2024,1.908932899
+Q-to-Q,L,Real Estate,Triwulan III 2024,0.03696064735
+Q-to-Q,L,Real Estate,Triwulan IV 2024,-2.356735565
+Q-to-Q,L,Real Estate,Tahunan 2024,7.565624586
+Q-to-Q,L,Real Estate,Triwulan I 2025,4.734347134
+Q-to-Q,L,Real Estate,Triwulan II 2025,1.128026287
+Q-to-Q,L,Real Estate,Triwulan III 2025,0.7032682585
+Q-to-Q,L,Real Estate,Triwulan IV 2025,-0.4855971149
+Q-to-Q,L,Real Estate,Tahunan 2025,4.492559558
+Q-to-Q,L,Real Estate,Triwulan I 2026,4.824911912
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan I 2023,-2.592
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan II 2023,13.78284182
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan III 2023,0.9280502915
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan IV 2023,3.533568229
+Q-to-Q,"M,N",Jasa Perusahaan,Tahunan 2023,10.76508818
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan I 2024,-9.472195352
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan II 2024,12.84376147
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan III 2024,0.2448587271
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan IV 2024,1.508806736
+Q-to-Q,"M,N",Jasa Perusahaan,Tahunan 2024,6.016475723
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan I 2025,-4.669155118
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan II 2025,8.888919409
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan III 2025,-2.384995063
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan IV 2025,0.3083546201
+Q-to-Q,"M,N",Jasa Perusahaan,Tahunan 2025,4.749402572
+Q-to-Q,"M,N",Jasa Perusahaan,Triwulan I 2026,-4.871516778
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2023,-6.099775541
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2023,19.42805407
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2023,-9.039707245
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2023,6.642554423
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2023,5.057436582
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2024,-7.872085286
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2024,17.22317886
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2024,-9.54139943
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2024,6.695589088
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2024,4.923197349
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2025,-10.52894826
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2025,17.49176229
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2025,-7.350612987
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2025,6.345240831
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2025,2.550478607
+Q-to-Q,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2026,-2.349611354
+Q-to-Q,P,Jasa Pendidikan,Triwulan I 2023,0.42
+Q-to-Q,P,Jasa Pendidikan,Triwulan II 2023,9.720165706
+Q-to-Q,P,Jasa Pendidikan,Triwulan III 2023,5.103194141
+Q-to-Q,P,Jasa Pendidikan,Triwulan IV 2023,-8.137596229
+Q-to-Q,P,Jasa Pendidikan,Tahunan 2023,6.633158239
+Q-to-Q,P,Jasa Pendidikan,Triwulan I 2024,0.01778626702
+Q-to-Q,P,Jasa Pendidikan,Triwulan II 2024,9.801530109
+Q-to-Q,P,Jasa Pendidikan,Triwulan III 2024,4.61184998
+Q-to-Q,P,Jasa Pendidikan,Triwulan IV 2024,-8.206184973
+Q-to-Q,P,Jasa Pendidikan,Tahunan 2024,5.740507385
+Q-to-Q,P,Jasa Pendidikan,Triwulan I 2025,-2.017107797
+Q-to-Q,P,Jasa Pendidikan,Triwulan II 2025,6.94403846
+Q-to-Q,P,Jasa Pendidikan,Triwulan III 2025,4.948651256
+Q-to-Q,P,Jasa Pendidikan,Triwulan IV 2025,-6.216468529
+Q-to-Q,P,Jasa Pendidikan,Tahunan 2025,1.951356661
+Q-to-Q,P,Jasa Pendidikan,Triwulan I 2026,-4.281255471
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2023,8.494261085
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2023,11.92231669
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2023,0.1409740287
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2023,2.562654758
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2023,16.05900332
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2024,-4.173285372
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2024,6.769277212
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2024,3.026521307
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2024,0.2836449661
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2024,7.175748281
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2025,0.1123982537
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2025,4.825837555
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2025,0.1219732492
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2025,4.263263207
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2025,8.400338406
+Q-to-Q,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2026,-0.6692327678
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan I 2023,3.641
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan II 2023,1.594758961
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan III 2023,-4.358757068
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan IV 2023,7.724710691
+Q-to-Q,"R,S,T,U",Jasa lainnya,Tahunan 2023,11.15267809
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan I 2024,1.042792543
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan II 2024,2.967450581
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan III 2024,-5.979138961
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan IV 2024,6.959930834
+Q-to-Q,"R,S,T,U",Jasa lainnya,Tahunan 2024,5.735946796
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan I 2025,4.526895657
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan II 2025,5.184264289
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan III 2025,-8.512316158
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan IV 2025,6.959930834
+Q-to-Q,"R,S,T,U",Jasa lainnya,Tahunan 2025,8.509043682
+Q-to-Q,"R,S,T,U",Jasa lainnya,Triwulan I 2026,-2.579462756
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2023,0.4420020795
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2023,1.240512102
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2023,1.160571941
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2023,2.274340424
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2023,4.678105415
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2024,-0.004289777545
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2024,1.262628899
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2024,0.9612294599
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2024,2.615920673
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2024,4.742388159
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2025,-0.4924375123
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2025,1.779007412
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2025,0.8952234636
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2025,2.519077589
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2025,4.735575545
+Q-to-Q,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2026,-0.0659283782
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2023,0.5391912335
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2023,2.203798205
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2023,1.754728834
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2023,2.409444387
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2023,1.70745357
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2024,3.801230665
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2024,2.514195174
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2024,2.849670621
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2024,4.475138206
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2024,3.423872167
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2025,3.119350358
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan II 2025,4.656794691
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan III 2025,4.077021959
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan IV 2025,5.320872929
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Tahunan 2025,4.28202584
+Y-on-Y,A,"Pertanian, Kehutanan, dan Perikanan",Triwulan I 2026,3.15305363
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan I 2023,-4.874013118
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan II 2023,10.75452865
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan III 2023,11.12956237
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan IV 2023,6.656212385
+Y-on-Y,B,Pertambangan dan Penggalian,Tahunan 2023,5.839077033
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan I 2024,6.87366342
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan II 2024,6.33222979
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan III 2024,5.187180177
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan IV 2024,4.621330408
+Y-on-Y,B,Pertambangan dan Penggalian,Tahunan 2024,5.710473383
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan I 2025,4.38336184
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan II 2025,3.86102282
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan III 2025,5.173377917
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan IV 2025,6.650540135
+Y-on-Y,B,Pertambangan dan Penggalian,Tahunan 2025,5.04245703
+Y-on-Y,B,Pertambangan dan Penggalian,Triwulan I 2026,2.771995789
+Y-on-Y,C,Industri Pengolahan,Triwulan I 2023,2.962954386
+Y-on-Y,C,Industri Pengolahan,Triwulan II 2023,1.89856228
+Y-on-Y,C,Industri Pengolahan,Triwulan III 2023,-3.475264019
+Y-on-Y,C,Industri Pengolahan,Triwulan IV 2023,3.186255053
+Y-on-Y,C,Industri Pengolahan,Tahunan 2023,1.111586859
+Y-on-Y,C,Industri Pengolahan,Triwulan I 2024,2.86402007
+Y-on-Y,C,Industri Pengolahan,Triwulan II 2024,4.638759739
+Y-on-Y,C,Industri Pengolahan,Triwulan III 2024,4.330478503
+Y-on-Y,C,Industri Pengolahan,Triwulan IV 2024,4.275706973
+Y-on-Y,C,Industri Pengolahan,Tahunan 2024,4.033896899
+Y-on-Y,C,Industri Pengolahan,Triwulan I 2025,3.568474014
+Y-on-Y,C,Industri Pengolahan,Triwulan II 2025,3.132312372
+Y-on-Y,C,Industri Pengolahan,Triwulan III 2025,5.235385882
+Y-on-Y,C,Industri Pengolahan,Triwulan IV 2025,-0.1138749497
+Y-on-Y,C,Industri Pengolahan,Tahunan 2025,2.889876861
+Y-on-Y,C,Industri Pengolahan,Triwulan I 2026,4.701633821
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan I 2023,12.20928737
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan II 2023,23.41626642
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan III 2023,24.16593774
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan IV 2023,2.023576877
+Y-on-Y,D,Pengadaan Listrik dan Gas,Tahunan 2023,14.98512997
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan I 2024,5.843736773
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan II 2024,4.513786683
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan III 2024,3.720949851
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan IV 2024,8.507376184
+Y-on-Y,D,Pengadaan Listrik dan Gas,Tahunan 2024,5.595679897
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan I 2025,4.141681258
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan II 2025,3.26017943
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan III 2025,2.616799577
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan IV 2025,6.432850444
+Y-on-Y,D,Pengadaan Listrik dan Gas,Tahunan 2025,4.09810396
+Y-on-Y,D,Pengadaan Listrik dan Gas,Triwulan I 2026,3.253710901
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2023,8.294848055
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2023,6.19188426
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2023,8.456288623
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2023,5.910901487
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2023,7.192926977
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2024,5.742143687
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2024,6.86300365
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2024,6.434678668
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2024,6.098728938
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2024,6.290163199
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2025,2.747588368
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan II 2025,5.205783857
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan III 2025,5.190748565
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan IV 2025,6.098728938
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Tahunan 2025,4.832406843
+Y-on-Y,E,"Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",Triwulan I 2026,10.21906682
+Y-on-Y,F,Konstruksi,Triwulan I 2023,4.85445483
+Y-on-Y,F,Konstruksi,Triwulan II 2023,6.675392623
+Y-on-Y,F,Konstruksi,Triwulan III 2023,7.217739089
+Y-on-Y,F,Konstruksi,Triwulan IV 2023,7.446002611
+Y-on-Y,F,Konstruksi,Tahunan 2023,6.60130904
+Y-on-Y,F,Konstruksi,Triwulan I 2024,7.088750396
+Y-on-Y,F,Konstruksi,Triwulan II 2024,5.82387954
+Y-on-Y,F,Konstruksi,Triwulan III 2024,5.610284974
+Y-on-Y,F,Konstruksi,Triwulan IV 2024,4.207713731
+Y-on-Y,F,Konstruksi,Tahunan 2024,5.599294206
+Y-on-Y,F,Konstruksi,Triwulan I 2025,2.792198511
+Y-on-Y,F,Konstruksi,Triwulan II 2025,4.696404838
+Y-on-Y,F,Konstruksi,Triwulan III 2025,4.964724399
+Y-on-Y,F,Konstruksi,Triwulan IV 2025,5.622218604
+Y-on-Y,F,Konstruksi,Tahunan 2025,4.5801202
+Y-on-Y,F,Konstruksi,Triwulan I 2026,7.420029229
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2023,8.560734814
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2023,1.988727351
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2023,11.35329068
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2023,7.084409722
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2023,7.101861982
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2024,3.703306491
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2024,5.728058883
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2024,4.806397917
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2024,5.487284322
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2024,4.948757389
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2025,6.651856464
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan II 2025,7.192597379
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan III 2025,6.954866177
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan IV 2025,5.56958399
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Tahunan 2025,6.591540933
+Y-on-Y,G,Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor,Triwulan I 2026,7.599812406
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan I 2023,1.927301675
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan II 2023,7.929679004
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan III 2023,3.068697305
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan IV 2023,7.570172845
+Y-on-Y,H,Transportasi dan Pergudangan,Tahunan 2023,5.231754286
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan I 2024,5.643241775
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan II 2024,4.955747043
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan III 2024,6.722132239
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan IV 2024,6.12804244
+Y-on-Y,H,Transportasi dan Pergudangan,Tahunan 2024,5.850205169
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan I 2025,10.48876725
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan II 2025,5.996753572
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan III 2025,5.626444199
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan IV 2025,6.394402223
+Y-on-Y,H,Transportasi dan Pergudangan,Tahunan 2025,6.956584293
+Y-on-Y,H,Transportasi dan Pergudangan,Triwulan I 2026,13.74459746
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2023,5.323081873
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2023,4.953511273
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2023,6.812256468
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2023,6.98034704
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2023,6.030510113
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2024,7.166117021
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2024,7.78070847
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2024,5.660430292
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2024,4.691471909
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2024,6.296531478
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2025,4.595943636
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan II 2025,5.337909854
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan III 2025,4.055355128
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan IV 2025,5.764618273
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Tahunan 2025,4.942513798
+Y-on-Y,I,Penyediaan Akomodasi dan Makan Minum,Triwulan I 2026,7.00373266
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan I 2023,7.872385588
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan II 2023,10.28623318
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan III 2023,9.034133939
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan IV 2023,7.487053143
+Y-on-Y,J,Informasi dan Komunikasi,Tahunan 2023,8.670352643
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan I 2024,7.901871822
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan II 2024,7.771095843
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan III 2024,6.66048759
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan IV 2024,6.014420294
+Y-on-Y,J,Informasi dan Komunikasi,Tahunan 2024,7.079325557
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan I 2025,6.877701214
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan II 2025,7.202250976
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan III 2025,6.959461706
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan IV 2025,6.37853973
+Y-on-Y,J,Informasi dan Komunikasi,Tahunan 2025,6.856074771
+Y-on-Y,J,Informasi dan Komunikasi,Triwulan I 2026,3.970536064
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan I 2023,2.54451622
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan II 2023,11.12912664
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan III 2023,4.273299925
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan IV 2023,5.410507631
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Tahunan 2023,5.735336155
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan I 2024,4.701313273
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan II 2024,5.184855745
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan III 2024,5.677539656
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan IV 2024,5.215128205
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Tahunan 2024,5.19368593
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan I 2025,2.966402476
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan II 2025,3.657042327
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan III 2025,1.266714768
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan IV 2025,3.389551726
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Tahunan 2025,2.819377933
+Y-on-Y,K,Jasa Keuangan dan Asuransi,Triwulan I 2026,3.490034778
+Y-on-Y,L,Real Estate,Triwulan I 2023,15.8952825
+Y-on-Y,L,Real Estate,Triwulan II 2023,14.4882498
+Y-on-Y,L,Real Estate,Triwulan III 2023,15.43206847
+Y-on-Y,L,Real Estate,Triwulan IV 2023,1.614194362
+Y-on-Y,L,Real Estate,Tahunan 2023,11.54746389
+Y-on-Y,L,Real Estate,Triwulan I 2024,6.45665346
+Y-on-Y,L,Real Estate,Triwulan II 2024,8.465637857
+Y-on-Y,L,Real Estate,Triwulan III 2024,8.420173759
+Y-on-Y,L,Real Estate,Triwulan IV 2024,6.913235132
+Y-on-Y,L,Real Estate,Tahunan 2024,7.565624586
+Y-on-Y,L,Real Estate,Triwulan I 2025,4.256745255
+Y-on-Y,L,Real Estate,Triwulan II 2025,3.457847852
+Y-on-Y,L,Real Estate,Triwulan III 2025,4.146940674
+Y-on-Y,L,Real Estate,Triwulan IV 2025,6.14270911
+Y-on-Y,L,Real Estate,Tahunan 2025,4.492559558
+Y-on-Y,L,Real Estate,Triwulan I 2026,6.234491711
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan I 2023,2.26623327
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan II 2023,12.48120074
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan III 2023,12.12255551
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan IV 2023,15.81490855
+Y-on-Y,"M,N",Jasa Perusahaan,Tahunan 2023,10.76508818
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan I 2024,7.634582544
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan II 2024,6.746245423
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan III 2024,6.023669942
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan IV 2024,3.9502106
+Y-on-Y,"M,N",Jasa Perusahaan,Tahunan 2024,6.016475723
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan I 2025,9.465389564
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan II 2025,5.628949508
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan III 2025,2.857847859
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan IV 2025,1.641441864
+Y-on-Y,"M,N",Jasa Perusahaan,Tahunan 2025,4.749402572
+Y-on-Y,"M,N",Jasa Perusahaan,Triwulan I 2026,1.42568451
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2023,7.403571578
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2023,7.045750503
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2023,-2.457063829
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2023,8.781583187
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2023,5.057436582
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2024,6.728396828
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2024,4.757982103
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2024,4.180188657
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2024,4.231998757
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2024,4.923197349
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2025,1.226067939
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan II 2025,1.457998562
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan III 2025,3.915175729
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan IV 2025,3.573957306
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Tahunan 2025,2.550478607
+Y-on-Y,O,"Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",Triwulan I 2026,13.04256503
+Y-on-Y,P,Jasa Pendidikan,Triwulan I 2023,5.346792834
+Y-on-Y,P,Jasa Pendidikan,Triwulan II 2023,10.51486903
+Y-on-Y,P,Jasa Pendidikan,Triwulan III 2023,4.476289276
+Y-on-Y,P,Jasa Pendidikan,Triwulan IV 2023,6.380099449
+Y-on-Y,P,Jasa Pendidikan,Tahunan 2023,6.633158239
+Y-on-Y,P,Jasa Pendidikan,Triwulan I 2024,5.954013641
+Y-on-Y,P,Jasa Pendidikan,Triwulan II 2024,6.032585205
+Y-on-Y,P,Jasa Pendidikan,Triwulan III 2024,5.536896257
+Y-on-Y,P,Jasa Pendidikan,Triwulan IV 2024,5.458097502
+Y-on-Y,P,Jasa Pendidikan,Tahunan 2024,5.740507385
+Y-on-Y,P,Jasa Pendidikan,Triwulan I 2025,3.312518554
+Y-on-Y,P,Jasa Pendidikan,Triwulan II 2025,0.6238979246
+Y-on-Y,P,Jasa Pendidikan,Triwulan III 2025,0.9478598584
+Y-on-Y,P,Jasa Pendidikan,Triwulan IV 2025,3.13599875
+Y-on-Y,P,Jasa Pendidikan,Tahunan 2025,1.951356661
+Y-on-Y,P,Jasa Pendidikan,Triwulan I 2026,0.7527752463
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2023,11.92817584
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2023,14.98960822
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2023,12.7900593
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2023,24.71667458
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2023,16.05900332
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2024,10.15503553
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2024,5.083363825
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2024,8.11132533
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2024,5.709020421
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2024,7.175748281
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2025,10.43667303
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan II 2025,8.42647857
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan III 2025,5.369693641
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan IV 2025,9.551144714
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Tahunan 2025,8.400338406
+Y-on-Y,Q,Jasa Kesehatan dan Kegiatan Sosial,Triwulan I 2026,8.695820352
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan I 2023,10.13012695
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan II 2023,10.2229356
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan III 2023,16.37572865
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan IV 2023,8.483439672
+Y-on-Y,"R,S,T,U",Jasa lainnya,Tahunan 2023,11.15267809
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan I 2024,5.763835636
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan II 2024,7.19285749
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan III 2024,5.376764766
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan IV 2024,4.628653895
+Y-on-Y,"R,S,T,U",Jasa lainnya,Tahunan 2024,5.735946796
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan I 2025,8.236402747
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan II 2025,10.56665313
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan III 2025,7.587687386
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan IV 2025,7.587687386
+Y-on-Y,"R,S,T,U",Jasa lainnya,Tahunan 2025,8.509043682
+Y-on-Y,"R,S,T,U",Jasa lainnya,Triwulan I 2026,0.2732381949
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2023,4.212342258
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2023,4.724728515
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2023,4.550060158
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2023,5.207731772
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2023,4.678105415
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2024,4.740264448
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2024,4.763145794
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2024,4.556704242
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2024,4.905907229
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2024,4.742388159
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2025,4.39378945
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan II 2025,4.926134999
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan III 2025,4.857536844
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan IV 2025,4.75857825
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Tahunan 2025,4.735575545
+Y-on-Y,PDRB,PRODUK DOMESTIK REGIONAL BRUTO,Triwulan I 2026,5.207594278

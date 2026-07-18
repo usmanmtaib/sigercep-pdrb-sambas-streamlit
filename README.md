@@ -11,7 +11,7 @@ streamlit run app.py
 
 ## Memperbarui data
 
-Data lima tabel untuk 17 lapangan usaha dan total PDRB berada di `data/pdrb_long.csv`. Berkas ini mencakup 16 periode dari Triwulan I 2023 sampai Triwulan I 2026 dan dihasilkan dari workbook sumber BPS Kabupaten Sambas.
+Data lima tabel untuk 17 lapangan usaha dan total PDRB berada di `data/pdrb_long.csv`. Berkas ini mencakup 21 periode dari Triwulan I 2022 sampai Triwulan I 2026 dan dihasilkan dari workbook sumber BPS Kabupaten Sambas.
 
 ## Deploy ke Streamlit Community Cloud
 

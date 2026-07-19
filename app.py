@@ -299,26 +299,93 @@ st.markdown(
         .hero-meta strong { color: white; margin-right: .28rem; }
 
         .signal-card {
+            display: flex;
+            flex-direction: column;
             min-height: 390px;
             padding: 1.7rem;
             border-radius: 24px;
             background: linear-gradient(160deg, rgba(13, 109, 176, .98), rgba(7, 79, 134, .96));
+            isolation: isolate;
         }
-        .signal-head { display: flex; justify-content: space-between; gap: .75rem; align-items: flex-start; }
+        .signal-card::after {
+            content: "";
+            position: absolute;
+            z-index: -1;
+            width: 180px;
+            height: 180px;
+            right: -74px;
+            bottom: -72px;
+            border-radius: 50%;
+            background: rgba(111, 207, 242, .12);
+        }
+        .signal-head {
+            display: flex;
+            justify-content: space-between;
+            gap: .75rem;
+            align-items: center;
+            min-width: 0;
+        }
         .signal-head span:first-child { color: #c2e3f2; font-size: .73rem; font-weight: 800; letter-spacing: .15em; text-transform: uppercase; }
-        .status-badge { padding: .25rem .55rem; border-radius: 999px; font-size: .7rem; font-weight: 800; }
+        .status-badge {
+            flex: 0 0 auto;
+            max-width: 55%;
+            padding: .25rem .55rem;
+            border-radius: 999px;
+            font-size: .7rem;
+            font-weight: 800;
+            line-height: 1.2;
+            text-align: center;
+        }
         .status-badge.positive { color: #155b45; background: #b9f3d9; }
         .status-badge.warning { color: #7a4d12; background: #ffe4a8; }
         .status-badge.negative { color: #802e35; background: #ffd0d3; }
         .status-badge.neutral { color: #405669; background: #dbe8ef; }
-        .signal-period { margin-top: .38rem; font: 500 1.55rem/1.08 Georgia, serif; }
-        .signal-number { margin-top: 2.1rem; font: 500 clamp(3.3rem, 5vw, 4.5rem)/1 Georgia, serif; letter-spacing: -.04em; }
-        .signal-label { margin-top: .45rem; color: #bcd8e7; font-size: .82rem; }
-        .mini-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .55rem; margin-top: 2rem; }
-        .mini-card { padding: .72rem .8rem; border-radius: 14px; background: rgba(4, 53, 89, .46); }
+        .signal-period {
+            max-width: 14ch;
+            margin-top: .5rem;
+            font: 500 clamp(1.35rem, 2.2vw, 1.7rem)/1.08 Georgia, serif;
+            overflow-wrap: anywhere;
+        }
+        .signal-number {
+            margin-top: 1.7rem;
+            font: 500 clamp(3rem, 4.6vw, 4.35rem)/1 Georgia, serif;
+            font-variant-numeric: tabular-nums;
+            letter-spacing: -.04em;
+            white-space: nowrap;
+        }
+        .signal-label { margin-top: .45rem; color: #bcd8e7; font-size: .82rem; line-height: 1.4; }
+        .mini-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: .55rem;
+            margin-top: 1.7rem;
+        }
+        .mini-card {
+            min-width: 0;
+            padding: .72rem .8rem;
+            overflow: hidden;
+            border-radius: 14px;
+            background: rgba(4, 53, 89, .46);
+            border: 1px solid rgba(192, 226, 243, .08);
+        }
         .mini-card span { display: block; color: #a9cfdf; font-size: .68rem; text-transform: uppercase; }
-        .mini-card strong { display: block; margin-top: .15rem; font-size: 1.03rem; }
-        .signal-foot { margin-top: 1.4rem; color: #b5d3e2; font-size: .75rem; }
+        .mini-card strong {
+            display: block;
+            margin-top: .15rem;
+            overflow: hidden;
+            color: #f5fbff;
+            font-size: clamp(.88rem, 1.5vw, 1.03rem);
+            line-height: 1.2;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .signal-foot {
+            margin-top: auto;
+            padding-top: 1.25rem;
+            color: #b5d3e2;
+            font-size: .75rem;
+            line-height: 1.45;
+        }
 
         .indicator-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .85rem; margin: 1rem 0 1.7rem; }
         .indicator-card {
@@ -397,7 +464,8 @@ st.markdown(
 
         @media (max-width: 1050px) {
             .hero-grid { grid-template-columns: 1fr; }
-            .signal-card { min-height: auto; }
+            .signal-card { min-height: 350px; }
+            .signal-period { max-width: none; }
             .indicator-grid { grid-template-columns: repeat(2, 1fr); }
         }
         @media (max-width: 720px) {
@@ -407,6 +475,8 @@ st.markdown(
             .hero-main { min-height: auto; padding: 1.35rem; }
             .hero-main h1 { font-size: 2.35rem; }
             .eyebrow { align-items: flex-start; flex-direction: column; }
+            .signal-card { min-height: 0; padding: 1.35rem; }
+            .signal-number { font-size: clamp(2.75rem, 15vw, 3.8rem); }
             .indicator-grid { grid-template-columns: 1fr; }
             .trend-stats { grid-template-columns: 1fr; }
             .footer { flex-direction: column; }
@@ -462,6 +532,13 @@ top_contributor = extreme_row(sectors, "Distribusi")
 top_yoy = extreme_row(sectors, "Y-on-Y")
 lowest_qoq = extreme_row(sectors, "Q-to-Q", largest=False)
 
+if selected_period.startswith("Tahunan"):
+    signal_note = "Angka tahunan mencakup realisasi empat triwulan pada tahun yang dipilih."
+elif selected_period.endswith("2026"):
+    signal_note = "Angka 2026 sementara baru mencakup realisasi Triwulan I."
+else:
+    signal_note = "Pertumbuhan y-on-y dibandingkan dengan triwulan yang sama pada tahun sebelumnya."
+
 st.markdown('<span id="ringkasan" class="section-anchor"></span>', unsafe_allow_html=True)
 st.markdown(
     f"""
@@ -506,7 +583,7 @@ st.markdown(
                 <div class="mini-card"><span>Q-to-Q</span><strong>{format_percent(qoq)}</strong></div>
                 <div class="mini-card"><span>ADHK</span><strong>Rp{format_id(adhk / 1_000_000)} T</strong></div>
             </div>
-            <div class="signal-foot">Angka tahunan menunjukkan realisasi satu tahun penuh; angka 2026 baru mencakup Triwulan I.</div>
+            <div class="signal-foot">{escape(signal_note)}</div>
         </article>
     </section>
     """,

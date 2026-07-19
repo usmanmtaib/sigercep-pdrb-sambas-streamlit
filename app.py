@@ -100,7 +100,7 @@ def indicator_card(number: str, label: str, value: str, detail: str) -> str:
 
 data = load_data()
 
-st.markdown(
+st.html(
     """
     <style>
         :root {
@@ -483,11 +483,10 @@ st.markdown(
         }
     </style>
     """,
-    unsafe_allow_html=True,
 )
 
 with st.sidebar:
-    st.markdown(
+    st.html(
         """
         <div class="sidebar-brand">
             <div class="sidebar-logo">SG</div>
@@ -503,10 +502,9 @@ with st.sidebar:
         </nav>
         <div class="sidebar-kicker">Periode analisis</div>
         """,
-        unsafe_allow_html=True,
     )
     selected_period = st.selectbox("Pilih periode", PERIODS, index=len(PERIODS) - 1, label_visibility="collapsed")
-    st.markdown(
+    st.html(
         """
         <div class="sidebar-note">
             <span>Cakupan data</span>
@@ -514,7 +512,6 @@ with st.sidebar:
             <p>Lima tabel analisis untuk PDRB dan 17 lapangan usaha. Harga konstan menggunakan tahun dasar 2010.</p>
         </div>
         """,
-        unsafe_allow_html=True,
     )
 
 period_data = data[data["periode"] == selected_period]
@@ -539,8 +536,8 @@ elif selected_period.endswith("2026"):
 else:
     signal_note = "Pertumbuhan y-on-y dibandingkan dengan triwulan yang sama pada tahun sebelumnya."
 
-st.markdown('<span id="ringkasan" class="section-anchor"></span>', unsafe_allow_html=True)
-st.markdown(
+st.html('<span id="ringkasan" class="section-anchor"></span>')
+st.html(
     f"""
     <header class="topbar">
         <div class="top-brand">
@@ -551,7 +548,9 @@ st.markdown(
             <span class="top-pill">6101 · Kabupaten Sambas</span>
             <span class="top-pill">Data BPS · Tahun dasar 2010</span>
         </div>
-    </header><section class="hero-grid">
+    </header>
+
+    <section class="hero-grid">
         <article class="hero-main">
             <div class="hero-content">
                 <div class="eyebrow"><span>Dashboard ekonomi daerah</span><span class="fresh">Data terbaru tersedia</span></div>
@@ -567,7 +566,9 @@ st.markdown(
                     <span><strong>17 sektor</strong> dipantau</span>
                 </div>
             </div>
-        </article><article class="signal-card">
+        </article>
+
+        <article class="signal-card">
             <div class="signal-head">
                 <span>Sinyal ekonomi</span>
                 <span class="status-badge {status_tone(yoy)}">{escape(status(yoy))}</span>
@@ -583,7 +584,6 @@ st.markdown(
         </article>
     </section>
     """,
-    unsafe_allow_html=True,
 )
 
 cards = "".join(
@@ -609,7 +609,7 @@ cards = "".join(
         ),
     ]
 )
-st.markdown(f'<section class="indicator-grid">{cards}</section>', unsafe_allow_html=True)
+st.html(f'<section class="indicator-grid">{cards}</section>')
 
 trend = data[
     (data["tabel"] == "Y-on-Y")
@@ -694,8 +694,8 @@ previous = trend.iloc[-2]
 peak = trend.loc[trend["Pertumbuhan"].idxmax()]
 change = latest["Pertumbuhan"] - previous["Pertumbuhan"]
 
-st.markdown('<span id="tren" class="section-anchor"></span>', unsafe_allow_html=True)
-st.markdown(
+st.html('<span id="tren" class="section-anchor"></span>')
+st.html(
     """
     <div class="section-heading">
         <div class="section-kicker">Tren pertumbuhan</div>
@@ -703,11 +703,10 @@ st.markdown(
         <p>Perbandingan terhadap triwulan yang sama pada tahun sebelumnya.</p>
     </div>
     """,
-    unsafe_allow_html=True,
 )
 with st.container(border=True):
     st.altair_chart(yoy_chart, theme=None, width="stretch")
-    st.markdown(
+    st.html(
         f"""
         <div class="trend-stats">
             <div class="trend-stat"><span>Pertumbuhan terbaru</span><strong>{format_percent(latest['Pertumbuhan'])}</strong><small>{escape(latest['Periode'])}</small></div>
@@ -715,7 +714,6 @@ with st.container(border=True):
             <div class="trend-stat"><span>Pertumbuhan tertinggi</span><strong>{format_percent(peak['Pertumbuhan'])}</strong><small>{escape(peak['Periode'])}</small></div>
         </div>
         """,
-        unsafe_allow_html=True,
     )
 
 top = sectors.nlargest(7, "Distribusi")[["lapangan_usaha", "Distribusi"]].copy()
@@ -768,8 +766,8 @@ else:
 
 left, right = st.columns([1.18, .82], gap="large")
 with left:
-    st.markdown('<span id="kontribusi" class="section-anchor"></span>', unsafe_allow_html=True)
-    st.markdown(
+    st.html('<span id="kontribusi" class="section-anchor"></span>')
+    st.html(
         """
         <div class="section-heading">
             <div class="section-kicker">Struktur ekonomi</div>
@@ -777,14 +775,13 @@ with left:
             <p>Tujuh sektor dengan porsi terbesar pada periode aktif.</p>
         </div>
         """,
-        unsafe_allow_html=True,
     )
     with st.container(border=True):
         st.altair_chart(contribution_chart, theme=None, width="stretch")
 
 with right:
-    st.markdown('<span id="sinyal" class="section-anchor"></span>', unsafe_allow_html=True)
-    st.markdown(
+    st.html('<span id="sinyal" class="section-anchor"></span>')
+    st.html(
         """
         <div class="section-heading">
             <div class="section-kicker">Sinyal cepat</div>
@@ -792,13 +789,12 @@ with right:
             <p>Enam perubahan Q-to-Q terendah pada periode aktif.</p>
         </div>
         """,
-        unsafe_allow_html=True,
     )
     with st.container(border=True):
-        st.markdown(f'<div class="signal-list">{signal_rows}</div>', unsafe_allow_html=True)
+        st.html(f'<div class="signal-list">{signal_rows}</div>')
 
-st.markdown('<span id="tabel" class="section-anchor"></span>', unsafe_allow_html=True)
-st.markdown(
+st.html('<span id="tabel" class="section-anchor"></span>')
+st.html(
     """
     <div class="section-heading">
         <div class="section-kicker">Eksplorasi data</div>
@@ -806,7 +802,6 @@ st.markdown(
         <p>Cari sektor, berpindah tabel, lalu unduh data untuk periode aktif.</p>
     </div>
     """,
-    unsafe_allow_html=True,
 )
 query = st.text_input("Cari lapangan usaha", placeholder="Contoh: pertanian atau konstruksi")
 
@@ -839,12 +834,11 @@ st.download_button(
     width="stretch",
 )
 
-st.markdown(
+st.html(
     """
     <footer class="footer">
         <span><strong>SIGERCEP PDRB Kabupaten Sambas</strong><br>Sistem Gerak Cepat Pertumbuhan Ekonomi Daerah</span>
         <span>Sumber: BPS Kabupaten Sambas · ADHB/ADHK dalam juta rupiah · Tahun dasar 2010</span>
     </footer>
     """,
-    unsafe_allow_html=True,
 )

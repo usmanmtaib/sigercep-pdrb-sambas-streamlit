@@ -1,5 +1,6 @@
 from pathlib import Path
 
+import altair as alt
 import pandas as pd
 import streamlit as st
 
@@ -94,10 +95,115 @@ m2.metric("Pertumbuhan y-on-y", f"{format_id(pdrb['Y-on-Y'])}{'%' if pd.notna(pd
 m3.metric("Pertumbuhan q-to-q", f"{format_id(pdrb['Q-to-Q'])}{'%' if pd.notna(pdrb['Q-to-Q']) else ''}", status(pdrb["Q-to-Q"]), delta_color="inverse")
 m4.metric("PDRB harga konstan", f"Rp{format_id(pdrb['ADHK'] / 1_000_000)} T")
 
-trend = data[(data["tabel"] == "Y-on-Y") & (data["kode"] == "PDRB") & data["periode"].str.startswith("Triwulan")].copy()
-trend["Periode"] = trend["periode"].str.replace("Triwulan ", "T", regex=False)
-st.subheader("Pertumbuhan y-on-y per triwulan")
-st.line_chart(trend.set_index("Periode")[["nilai"]].rename(columns={"nilai": "Pertumbuhan y-on-y (%)"}), color="#0f766e", height=340)
+trend = data[
+    (data["tabel"] == "Y-on-Y")
+    & (data["kode"] == "PDRB")
+    & data["periode"].str.startswith("Triwulan")
+].copy()
+trend = trend.dropna(subset=["nilai"])
+trend["Urutan"] = trend["periode"].map({period: index for index, period in enumerate(PERIODS)})
+trend = trend.sort_values("Urutan")
+trend["Periode"] = (
+    trend["periode"]
+    .str.replace("Triwulan IV", "T4", regex=False)
+    .str.replace("Triwulan III", "T3", regex=False)
+    .str.replace("Triwulan II", "T2", regex=False)
+    .str.replace("Triwulan I", "T1", regex=False)
+)
+trend["Pertumbuhan"] = trend["nilai"]
+trend["Kondisi"] = trend["Pertumbuhan"].map(lambda value: "Kontraksi" if value < 0 else "Tumbuh")
+trend["Sorotan"] = trend["periode"].eq(selected_period)
+
+period_order = trend["Periode"].tolist()
+x_axis = alt.X(
+    "Periode:N",
+    sort=period_order,
+    title=None,
+    axis=alt.Axis(labelAngle=0, labelColor="#475569", labelPadding=10, tickSize=0),
+)
+y_axis = alt.Y(
+    "Pertumbuhan:Q",
+    title="Pertumbuhan (%)",
+    scale=alt.Scale(zero=True, nice=True),
+    axis=alt.Axis(
+        format=".1f",
+        gridColor="#dbe7e3",
+        gridDash=[3, 4],
+        labelColor="#475569",
+        titleColor="#334155",
+        titlePadding=14,
+    ),
+)
+tooltip = [
+    alt.Tooltip("periode:N", title="Periode"),
+    alt.Tooltip("Pertumbuhan:Q", title="Pertumbuhan", format=".2f"),
+    alt.Tooltip("Kondisi:N", title="Kondisi"),
+]
+
+base = alt.Chart(trend).encode(x=x_axis, y=y_axis)
+area = base.mark_area(
+    interpolate="monotone",
+    opacity=0.18,
+    color=alt.Gradient(
+        gradient="linear",
+        stops=[
+            alt.GradientStop(color="#0f766e", offset=0),
+            alt.GradientStop(color="#99f6e4", offset=1),
+        ],
+        x1=1,
+        x2=1,
+        y1=0,
+        y2=1,
+    ),
+)
+line = base.mark_line(interpolate="monotone", color="#0f766e", strokeWidth=3.5)
+points = base.mark_circle(size=105, stroke="#ffffff", strokeWidth=2).encode(
+    color=alt.Color(
+        "Kondisi:N",
+        scale=alt.Scale(domain=["Tumbuh", "Kontraksi"], range=["#0f766e", "#dc2626"]),
+        legend=None,
+    ),
+    tooltip=tooltip,
+)
+zero_line = alt.Chart(pd.DataFrame({"Pertumbuhan": [0]})).mark_rule(
+    color="#94a3b8", strokeDash=[6, 5], strokeWidth=1
+).encode(y="Pertumbuhan:Q")
+highlight = (
+    base.transform_filter(alt.datum.Sorotan)
+    .mark_circle(size=260, color="#f59e0b", stroke="#ffffff", strokeWidth=3)
+    .encode(tooltip=tooltip)
+)
+
+yoy_chart = (area + zero_line + line + points + highlight).properties(height=350).configure_view(
+    stroke=None
+).configure_axis(
+    domain=False
+)
+
+with st.container(border=True):
+    st.subheader("Pertumbuhan y-on-y per triwulan")
+    st.caption("Arah pertumbuhan ekonomi dibandingkan dengan triwulan yang sama pada tahun sebelumnya.")
+    st.altair_chart(yoy_chart, width="stretch")
+
+    latest = trend.iloc[-1]
+    previous = trend.iloc[-2]
+    peak = trend.loc[trend["Pertumbuhan"].idxmax()]
+    change = latest["Pertumbuhan"] - previous["Pertumbuhan"]
+    c1, c2, c3 = st.columns(3)
+    c1.metric(
+        "Pertumbuhan terbaru",
+        f"{format_id(latest['Pertumbuhan'])}%",
+        latest["Periode"],
+        delta_color="off",
+    )
+    c2.metric("Perubahan dari triwulan lalu", f"{format_id(change)} poin persentase")
+    c3.metric(
+        "Pertumbuhan tertinggi",
+        f"{format_id(peak['Pertumbuhan'])}%",
+        peak["Periode"],
+        delta_color="off",
+    )
+
 growth_text = f"{format_id(pdrb['Y-on-Y'])}%" if pd.notna(pdrb["Y-on-Y"]) else "belum tersedia pada workbook sumber"
 st.caption(f"Pada {selected_period}, pertumbuhan y-on-y {growth_text}.")
 

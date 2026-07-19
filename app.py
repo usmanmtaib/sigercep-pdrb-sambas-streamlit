@@ -141,12 +141,42 @@ st.html(
         [data-testid="stSidebar"] > div:first-child { padding-top: 1.1rem; }
         [data-testid="stSidebar"] * { color: #f4fbff; }
         [data-testid="stSidebar"] hr { border-color: rgba(255,255,255,.18); }
-        [data-testid="stSidebar"] [data-baseweb="select"] > div,
-        [data-testid="stSidebar"] [data-baseweb="input"] > div {
-            color: white;
-            background: rgba(4, 57, 96, .44);
-            border-color: rgba(202, 234, 250, .34);
-            border-radius: 12px;
+        [data-testid="stSidebar"] [data-testid="stSelectbox"] [data-baseweb="select"] > div {
+            min-height: 46px;
+            color: #ffffff !important;
+            background: #063f6b !important;
+            border: 1px solid rgba(211, 239, 253, .62) !important;
+            border-radius: 12px !important;
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, .08), 0 8px 20px rgba(2, 35, 59, .16);
+        }
+        [data-testid="stSidebar"] [data-testid="stSelectbox"] [data-baseweb="select"] span,
+        [data-testid="stSidebar"] [data-testid="stSelectbox"] [data-baseweb="select"] input {
+            color: #ffffff !important;
+            -webkit-text-fill-color: #ffffff !important;
+            font-weight: 720;
+        }
+        [data-testid="stSidebar"] [data-testid="stSelectbox"] [data-baseweb="select"] svg {
+            fill: #dff5ff !important;
+            color: #dff5ff !important;
+        }
+        [data-baseweb="popover"] [role="listbox"],
+        [data-baseweb="popover"] [data-baseweb="menu"] {
+            padding: .35rem !important;
+            background: #f5fbff !important;
+            border: 1px solid #bdddec !important;
+            border-radius: 12px !important;
+            box-shadow: 0 18px 45px rgba(3, 42, 70, .24) !important;
+        }
+        [data-baseweb="popover"] [role="option"] {
+            color: #073c68 !important;
+            background: transparent !important;
+            border-radius: 8px !important;
+        }
+        [data-baseweb="popover"] [role="option"] * { color: #073c68 !important; }
+        [data-baseweb="popover"] [role="option"]:hover,
+        [data-baseweb="popover"] [role="option"][aria-selected="true"] {
+            color: #052f52 !important;
+            background: #d9effa !important;
         }
         .sidebar-brand {
             display: flex;

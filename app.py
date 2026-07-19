@@ -551,9 +551,7 @@ st.markdown(
             <span class="top-pill">6101 · Kabupaten Sambas</span>
             <span class="top-pill">Data BPS · Tahun dasar 2010</span>
         </div>
-    </header>
-
-    <section class="hero-grid">
+    </header><section class="hero-grid">
         <article class="hero-main">
             <div class="hero-content">
                 <div class="eyebrow"><span>Dashboard ekonomi daerah</span><span class="fresh">Data terbaru tersedia</span></div>
@@ -569,9 +567,7 @@ st.markdown(
                     <span><strong>17 sektor</strong> dipantau</span>
                 </div>
             </div>
-        </article>
-
-        <article class="signal-card">
+        </article><article class="signal-card">
             <div class="signal-head">
                 <span>Sinyal ekonomi</span>
                 <span class="status-badge {status_tone(yoy)}">{escape(status(yoy))}</span>
